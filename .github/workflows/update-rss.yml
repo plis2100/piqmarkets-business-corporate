@@ -1,0 +1,40 @@
+
+name: Actualizar RSS PiQ Business Corporate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '13 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: piq-business-rss
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
+      - run: python main.py
+
+      - name: Guardar feed e historial
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml articles.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar RSS PiQ Markets"
+            git push
+          fi
