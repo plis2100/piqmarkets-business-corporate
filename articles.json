@@ -49,6 +49,11 @@
     "link": "https://piqmarkets.com/story/nurse-struck-off-after-stealing-750k-from-99-year-old-for-cosmetic-surgery",
     "title": "Nurse struck off after stealing £750k from 99-year-old for cosmetic surgery"
   },
+  "07e7bf43fe53b6abe795af51f603c4f55554ce4423dc4c4dc3cf60a06bc00b86": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/kb-kookmin-bank-finds-2-091-more-people-affected-by-data-leak",
+    "title": "KB Kookmin Bank finds 2,091 more people affected by data leak"
+  },
   "089b2986e9281156ded9130ac3078a316fb329cdb181c4bc93ed2cbe34505e7d": {
     "first_seen": "2026-10-15T18:16:45.439208+00:00",
     "link": "https://piqmarkets.com/story/thames-water-seeks-2-4bn-more-to-avert-cash-crunch",
@@ -144,10 +149,10 @@
     "link": "https://piqmarkets.com/story/jp-morgan-tower-plans-hinge-on-uk-tax-policy-dimon-warns",
     "title": "JP Morgan tower plans hinge on UK tax policy, Dimon warns"
   },
-  "129241543117d2cfb3716061b659576306002c795dd8b87f1a3c2fec565e739b": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/amundi-executives-recognized-in-fn-s-most-influential-women-list",
-    "title": "Amundi executives recognized in FN's Most Influential Women list"
+  "128e57ce121d787b83eec49b014d37d3101e39560706788b050cdfb896c3b750": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/t-mobile-debuts-customizable-wireless-plans-with-perks-from-streaming-to-food",
+    "title": "T-Mobile debuts customizable wireless plans with perks from streaming to food"
   },
   "14d408729aa9ae89518df05002adeb79164eef6882c98b04f43f5b83d0d53437": {
     "first_seen": "2026-10-21T20:08:36.142076+00:00",
@@ -189,11 +194,6 @@
     "link": "https://piqmarkets.com/story/nhs-staff-investigated-for-accessing-medical-records-of-man-killed-by-tiger",
     "title": "NHS staff investigated for accessing medical records of man killed by tiger"
   },
-  "18e6a5302dcc1f1efb1ab26bef67e0a5fa21a165f8798d9c34dc2031bd43fb96": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/ralph-lauren-ties-executive-payouts-to-ai-signaling-retail-s-shifting-priorities",
-    "title": "Ralph Lauren ties executive payouts to AI, signaling retail's shifting priorities"
-  },
   "1975ac217bee6376c4a5c501db9d8ad681920e1da892a61f688b5edfba2397f1": {
     "first_seen": "2026-10-19T15:34:49.962798+00:00",
     "link": "https://piqmarkets.com/story/chicago-feed-plant-temporarily-closed-over-odor-and-pollution-concerns",
@@ -213,6 +213,11 @@
     "first_seen": "2026-10-22T04:41:12.450707+00:00",
     "link": "https://piqmarkets.com/story/kpmg-australia-mishandled-whistleblower-claims-government-work-pause-extended",
     "title": "KPMG Australia mishandled whistleblower claims, government work pause extended"
+  },
+  "1c49e7ea07a596be149ac8b4032ffad39d3975d80fd766e8d55d567816c93d9b": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/subaru-to-sell-only-evs-in-europe-from-2028",
+    "title": "Subaru to sell only EVs in Europe from 2028"
   },
   "1d5ab7a7edfb594e729b95727276868e23c29ae14933148e12ae9851d8b8db42": {
     "first_seen": "2026-10-15T18:16:45.439208+00:00",
@@ -249,16 +254,6 @@
     "link": "https://piqmarkets.com/story/lazard-ceo-orszag-sees-no-signs-of-deal-boom-slowing",
     "title": "Lazard CEO Orszag sees no signs of deal boom slowing"
   },
-  "1f81679849f176aa9baabfd4bff080db18bb0121ec95c41aff0163cf45f9b3b8": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/hong-kong-customer-complaints-surge-as-ai-use-fuels-frustration",
-    "title": "Hong Kong customer complaints surge as AI use fuels frustration"
-  },
-  "214807288cff60f101647e4d9fc1d03c583c57a28e53b1988924b6d3b1798f00": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/big-four-firms-secure-1-5bn-in-uk-government-contracts-despite-spending-pledge",
-    "title": "Big Four firms secure £1.5bn in UK government contracts despite spending pledge"
-  },
   "214a8f750c72aa0f7a56aff607180ded75e23554ec24475a887f09f90f5ba3b9": {
     "first_seen": "2026-10-16T23:34:12.942971+00:00",
     "link": "https://piqmarkets.com/story/trump-touts-hyundai-s-us-560-million-georgia-investment-pledge",
@@ -288,11 +283,6 @@
     "first_seen": "2026-10-15T18:16:45.439208+00:00",
     "link": "https://piqmarkets.com/story/prince-charles-cinema-secures-25-year-lease-renewal-staving-off-closure",
     "title": "Prince Charles Cinema secures 25-year lease renewal, staving off closure"
-  },
-  "27c6a87a3a8a8a4e58c083a040423a7b6a634702c20c4359e8699fdc98646d22": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/six-arrested-in-hong-kong-over-hk-14-million-agarwood-and-crypto-scam",
-    "title": "Six arrested in Hong Kong over HK$14 million agarwood and crypto scam"
   },
   "27ea319a731657cabf39f70f074d3bd6c06c5b930c0f2dca51678cbae94a9a58": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
@@ -368,6 +358,11 @@
     "first_seen": "2026-10-25T06:11:57.307157+00:00",
     "link": "https://piqmarkets.com/story/mitsubishi-motors-pivots-from-southeast-asia-amid-chinese-ev-competition",
     "title": "Mitsubishi Motors pivots from Southeast Asia amid Chinese EV competition"
+  },
+  "3272f61fdfab4a753ab39e2a525be487f117c7c733ad7bac3bd7fd25842ebfc1": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/revolut-launches-personal-loans-in-uk-to-rival-high-street-banks",
+    "title": "Revolut launches personal loans in UK to rival high street banks"
   },
   "3279ca26c3e6c23eaed0f842708c5881d8d2609aa7ddd25de41a554645ff3265": {
     "first_seen": "2026-10-22T15:16:37.116469+00:00",
@@ -484,6 +479,11 @@
     "link": "https://piqmarkets.com/story/musinsa-zozo-deepen-ties-ahead-of-south-korean-platform-s-ipo",
     "title": "Musinsa, Zozo deepen ties ahead of South Korean platform's IPO"
   },
+  "413b863dbcb845fa7e52d9ae2d0a9caa6ed441724648cc71c19428411d603e01": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/hong-kong-civil-servants-sue-colleague-over-hk-28-9-million-lottery-winnings",
+    "title": "Hong Kong civil servants sue colleague over HK$28.9 million lottery winnings"
+  },
   "414686b9441de04a46d17ee70507a46868629f0f34c7f3938ad24bdf53699034": {
     "first_seen": "2026-10-16T12:23:59.985033+00:00",
     "link": "https://piqmarkets.com/story/lvmh-sales-slide-in-china-amid-subdued-demand-lawsuit-fallout",
@@ -568,11 +568,6 @@
     "first_seen": "2026-10-22T04:41:12.450707+00:00",
     "link": "https://piqmarkets.com/story/comcast-planning-significant-job-cuts-as-part-of-restructuring",
     "title": "Comcast planning significant job cuts as part of restructuring"
-  },
-  "4bb2e2f5c117725113a497079cbacb050f597487eb18816af52f803692f17ae8": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/ctf-media-eyes-sports-expansion-as-traditional-tv-and-broadband-growth-stagnates",
-    "title": "CTF Media eyes sports expansion as traditional TV and broadband growth stagnates"
   },
   "4c8c32bdb78e25fc000c592199e239337c4051df7fed8cf660e185f368596b57": {
     "first_seen": "2026-10-16T12:23:59.985033+00:00",
@@ -709,6 +704,11 @@
     "link": "https://piqmarkets.com/story/retired-executive-james-meyer-honored-by-north-american-millers-association",
     "title": "Retired executive James Meyer honored by North American Millers Association"
   },
+  "56c13ff495c0a81111765c7c5646df7fd51acf69c3d89d7d6bf6ebf438e83026": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/chinese-beauty-brands-eye-global-expansion-amid-domestic-spending-slump",
+    "title": "Chinese beauty brands eye global expansion amid domestic spending slump"
+  },
   "56d124bf03f6e6e37d5157da99d04945d744eba55422745e06f67527fa4896b3": {
     "first_seen": "2026-10-15T18:16:45.439208+00:00",
     "link": "https://piqmarkets.com/story/lloyd-s-underwriters-must-fund-petrofac-executives-defense-court-rules",
@@ -754,11 +754,6 @@
     "link": "https://piqmarkets.com/story/3m-to-argue-australia-s-1-4-billion-forever-chemicals-lawsuit-legally-flawed",
     "title": "3M to argue Australia's $1.4 billion 'forever chemicals' lawsuit legally flawed"
   },
-  "5c5868ec98a28d85fc26604b680086015cb78def30b2379144e44c3e5b98df13": {
-    "first_seen": "2026-10-15T13:24:25.858142+00:00",
-    "link": "https://piqmarkets.com/story/richemont-in-talks-to-join-bid-for-diamond-miner-de-beers",
-    "title": "Richemont in talks to join bid for diamond miner De Beers"
-  },
   "5c7641a6547332b353a3d7b31fae1feac78ebea62a830a1ef794f2fd3d37b991": {
     "first_seen": "2026-10-21T20:08:36.142076+00:00",
     "link": "https://piqmarkets.com/story/qatar-s-homegrown-brands-aim-for-global-impact",
@@ -768,6 +763,11 @@
     "first_seen": "2026-10-19T07:44:58.293943+00:00",
     "link": "https://piqmarkets.com/story/la-cage-opens-london-sports-brasserie-with-expansion-plans",
     "title": "La Cage opens London sports brasserie with expansion plans"
+  },
+  "5d8f0322b122a51e89a472cc77f488077457b3c5cc4b6ddf34e1f9000ec7c79c": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/apollo-takes-minority-stake-in-mubadala-capital-commits-5-billion",
+    "title": "Apollo takes minority stake in Mubadala Capital, commits $5 billion"
   },
   "5d90a309d6287e115e2769f998b8024103b0b101ffab6e44cefea02e872a2cc3": {
     "first_seen": "2026-10-15T18:16:45.439208+00:00",
@@ -1158,6 +1158,11 @@
     "first_seen": "2026-10-23T15:02:55.873680+00:00",
     "link": "https://piqmarkets.com/story/vietnam-airlines-heathrow-airport-win-world-culinary-awards-for-dining",
     "title": "Vietnam Airlines, Heathrow Airport win World Culinary Awards for dining"
+  },
+  "93ff2df03cb44865ac817464fda30ca1bf3fcd018d195e36b0e2ef364204096d": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/fedex-names-jamere-jackson-chief-financial-officer",
+    "title": "FedEx names Jamere Jackson chief financial officer"
   },
   "956438a24c80268f9112bfbdbca8bcb5c82dd328f2f20cd887ee82957cd84160": {
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
@@ -1684,6 +1689,11 @@
     "link": "https://piqmarkets.com/story/supreme-court-rejects-tesco-appeal-in-equal-pay-case",
     "title": "Supreme Court rejects Tesco appeal in equal pay case"
   },
+  "d8c16262b1b0226d7b06c6acdca8ea19de8a40d0d301743f69813592e21d82fa": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/big-law-firms-sending-most-lawyers-to-big-tech",
+    "title": "Big Law Firms Sending Most Lawyers to Big Tech"
+  },
   "dac7b975606392344cba9b84a8f59850338875d85f9c54c45c05afb80447f432": {
     "first_seen": "2026-10-22T04:41:12.450707+00:00",
     "link": "https://piqmarkets.com/story/micron-workers-in-taiwan-strike-over-ai-profit-sharing",
@@ -1698,6 +1708,11 @@
     "first_seen": "2026-10-22T15:16:37.116469+00:00",
     "link": "https://piqmarkets.com/story/norfolk-southern-tops-profit-estimates-on-strong-freight-demand",
     "title": "Norfolk Southern tops profit estimates on strong freight demand"
+  },
+  "dc605ca966305cb6d17b232d5acf592259f8efb804c2d81832e26f84fce0cc53": {
+    "first_seen": "2026-10-26T13:07:42.783740+00:00",
+    "link": "https://piqmarkets.com/story/daughter-wins-127-500-claim-for-caring-for-mother",
+    "title": "Daughter wins £127,500 claim for caring for mother"
   },
   "dc9a45599de16a2ddc62a388076fdd64ad835e6a6372a3ae91c4254bd937cabc": {
     "first_seen": "2026-10-23T15:02:55.873680+00:00",
@@ -1794,11 +1809,6 @@
     "link": "https://piqmarkets.com/story/ellie-goulding-apologizes-for-promoting-diamonds-from-controversial-australian-mine",
     "title": "Ellie Goulding apologizes for promoting diamonds from controversial Australian mine"
   },
-  "ea5b713daa79ac12e74616d55273e34f07b7bf05cccd9d51ed07439e506f1e56": {
-    "first_seen": "2026-10-15T18:16:45.439208+00:00",
-    "link": "https://piqmarkets.com/story/pennsylvania-secures-over-4-billion-in-life-sciences-and-private-sector-investments",
-    "title": "Pennsylvania secures over $4 billion in life sciences and private sector investments"
-  },
   "eadc757ad675629cfe086c70986384740121db1ba128158a082aaa69c0c7d809": {
     "first_seen": "2026-10-16T17:23:25.025203+00:00",
     "link": "https://piqmarkets.com/story/omaze-appeals-uk-tax-ruling-on-luxury-house-prize-draws",
@@ -1833,11 +1843,6 @@
     "first_seen": "2026-10-16T07:07:47.676582+00:00",
     "link": "https://piqmarkets.com/story/dolce-gabbana-beauty-unit-targets-double-digit-growth-in-2026",
     "title": "Dolce & Gabbana beauty unit targets double-digit growth in 2026"
-  },
-  "ef4c88bcfe490bff012b19809f283f48369c5e55a9a400368f1741a07f936f53": {
-    "first_seen": "2026-10-15T18:16:45.439208+00:00",
-    "link": "https://piqmarkets.com/story/unicredit-wins-ecb-approval-for-commerzbank-control",
-    "title": "UniCredit wins ECB approval for Commerzbank control"
   },
   "f123b1d2756edc5e078e36c63a4c78f5cd14df1dfa7c1ea334b0f7ef4a6d3381": {
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
@@ -1953,11 +1958,6 @@
     "first_seen": "2026-10-21T10:06:59.844603+00:00",
     "link": "https://piqmarkets.com/story/halfords-sales-rise-7-1-on-summer-boost-profit-forecast-retained",
     "title": "Halfords sales rise 7.1% on summer boost, profit forecast retained"
-  },
-  "fcfe8948c88fae0adecaa17eb1ba8ceb1956a6a296ae0733f748c0ac4e63ff82": {
-    "first_seen": "2026-10-15T18:16:45.439208+00:00",
-    "link": "https://piqmarkets.com/story/new-american-funding-adds-mullinix-mortgage-group",
-    "title": "New American Funding adds Mullinix Mortgage Group"
   },
   "fd4640440ebb9e60c80ee563a2cf33a85d90894e9271a2c0f7367e5b4e81d099": {
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
