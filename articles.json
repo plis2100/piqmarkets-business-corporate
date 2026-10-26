@@ -54,11 +54,6 @@
     "link": "https://piqmarkets.com/story/kb-kookmin-bank-finds-2-091-more-people-affected-by-data-leak",
     "title": "KB Kookmin Bank finds 2,091 more people affected by data leak"
   },
-  "089b2986e9281156ded9130ac3078a316fb329cdb181c4bc93ed2cbe34505e7d": {
-    "first_seen": "2026-10-15T18:16:45.439208+00:00",
-    "link": "https://piqmarkets.com/story/thames-water-seeks-2-4bn-more-to-avert-cash-crunch",
-    "title": "Thames Water seeks £2.4bn more to avert cash crunch"
-  },
   "08b1fdd854f95503e75e6d904d2ff7d7c38c8c29194c1c7ba8b86902b3a1d24a": {
     "first_seen": "2026-10-24T10:55:58.004325+00:00",
     "link": "https://piqmarkets.com/story/33-arrested-in-shenzhen-and-hong-kong-for-credit-card-fraud-ring-targeting-travelers",
@@ -219,11 +214,6 @@
     "link": "https://piqmarkets.com/story/subaru-to-sell-only-evs-in-europe-from-2028",
     "title": "Subaru to sell only EVs in Europe from 2028"
   },
-  "1d5ab7a7edfb594e729b95727276868e23c29ae14933148e12ae9851d8b8db42": {
-    "first_seen": "2026-10-15T18:16:45.439208+00:00",
-    "link": "https://piqmarkets.com/story/solo-real-estate-agents-miss-leads-due-to-slow-response-times",
-    "title": "Solo real estate agents miss leads due to slow response times"
-  },
   "1db14999280812ad5bbf12e1113650ec77aa7e9af01a16ed2d2ad83244f429db": {
     "first_seen": "2026-10-25T16:14:53.819715+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-market-commentator-louie-shum-dies-at-65",
@@ -278,6 +268,11 @@
     "first_seen": "2026-10-18T23:10:14.192191+00:00",
     "link": "https://piqmarkets.com/story/dai-ichi-life-unit-proposes-to-buy-remaining-79-of-challenger",
     "title": "Dai-ichi Life unit proposes to buy remaining 79% of Challenger"
+  },
+  "2656108219c1aafe296d9f55539dd2835f9d427ca3fada94d04275cff0eb289f": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/schwarzman-sees-ai-reshaping-business-and-investment",
+    "title": "Schwarzman sees AI reshaping business and investment"
   },
   "27ea319a731657cabf39f70f074d3bd6c06c5b930c0f2dca51678cbae94a9a58": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
@@ -404,6 +399,11 @@
     "link": "https://piqmarkets.com/story/subaru-to-fully-revive-manual-wrx-sports-sedan-in-japan",
     "title": "Subaru to fully revive manual WRX sports sedan in Japan"
   },
+  "37af090d0d17d5b1433813a7d3ebfbab444020b7dfa6d1444f26c8d8c323248f": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/anthropic-s-ipo-filing-mostly-human-written-ai-detector-finds",
+    "title": "Anthropic's IPO filing mostly human-written, AI detector finds"
+  },
   "3856786e434b7fd44ff8e0dd51f00e68c702061070827b1214686c9823c6e961": {
     "first_seen": "2026-10-26T19:17:01.543718+00:00",
     "link": "https://piqmarkets.com/story/visa-mastercard-face-potential-5bn-uk-lawsuit-over-interchange-fees",
@@ -524,15 +524,15 @@
     "link": "https://piqmarkets.com/story/alain-ducasse-serves-caviar-on-luxury-icebreaker-le-commandant-charcot",
     "title": "Alain Ducasse serves caviar on luxury icebreaker Le Commandant Charcot"
   },
+  "46cfa7e071a6812f351c2fc2f33e50b4f62d0adce7eba6e1a59bb041138d0fec": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/us-judge-allows-eli-lilly-to-continue-weight-loss-drug-ads",
+    "title": "US judge allows Eli Lilly to continue weight-loss drug ads"
+  },
   "4717e86b10bccd8bd0ca6266871024b04b937ad7d5edd94c43c2da38e48b3688": {
     "first_seen": "2026-10-22T10:09:26.942263+00:00",
     "link": "https://piqmarkets.com/story/sainsbury-s-ceo-urges-labour-to-avoid-tax-hikes-in-budget",
     "title": "Sainsbury's CEO urges Labour to avoid tax hikes in Budget"
-  },
-  "47189d96d3f9696278a6d3b2598a8f9c93dc3f3215aef14177965621b80c89d5": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/global-drugmakers-scale-back-japan-r-d-amid-pricing-concerns",
-    "title": "Global drugmakers scale back Japan R&D amid pricing concerns"
   },
   "495c9cc3b3ab531fc408bb4d6a001512142cd4f67c425e2cbf8757657aa9a95b": {
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
@@ -824,6 +824,11 @@
     "link": "https://piqmarkets.com/story/compass-sues-former-era-president-alex-vidal-over-move-to-remax",
     "title": "Compass sues former ERA president Alex Vidal over move to REMAX"
   },
+  "6c0db491a470f61c24acc12c5355df61c05fd28386793bda66207aa06a9efe3f": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/scottish-surgeon-joseph-bell-sherlock-holmes-inspiration-profiled-in-new-book",
+    "title": "Scottish surgeon Joseph Bell, Sherlock Holmes inspiration, profiled in new book"
+  },
   "6c664778a40768024c207ceb8733d4648b4320d5d2985af5a63aa7848c47976b": {
     "first_seen": "2026-10-21T15:13:45.900565+00:00",
     "link": "https://piqmarkets.com/story/hermes-birkin-bag-scarcity-appeal-fades-as-resale-prices-drop",
@@ -853,6 +858,11 @@
     "first_seen": "2026-10-22T04:41:12.450707+00:00",
     "link": "https://piqmarkets.com/story/bhp-chair-urges-australia-to-boost-investment-appeal",
     "title": "BHP chair urges Australia to boost investment appeal"
+  },
+  "6e739f5c14d75c83b1bd25456e4ead3c3bba84c0c07473a09fdeeda926a9d425": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/universal-music-group-explored-going-private-with-buyout-firms",
+    "title": "Universal Music Group explored going private with buyout firms"
   },
   "6e9bac61822f85d706ee3f2f424453aeff417befe28a6dc6bfffc05e5566767c": {
     "first_seen": "2026-10-19T15:34:49.962798+00:00",
@@ -969,11 +979,6 @@
     "link": "https://piqmarkets.com/story/shrinkflation-supermarkets-reduce-product-size-while-keeping-prices-steady",
     "title": "Shrinkflation: Supermarkets reduce product size while keeping prices steady"
   },
-  "7dd2f89e395590c8d545d84dd5f83911b7fd3c5b8c31311d63bae6312a14f1cb": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/samsung-tops-asia-brand-rankings-for-third-year-in-nikkei-poll",
-    "title": "Samsung tops Asia brand rankings for third year in Nikkei poll"
-  },
   "7dd652558a3833b694a3c01eb4244384d7d0a2a30187df54e1fbe6165ee52147": {
     "first_seen": "2026-10-19T15:34:49.962798+00:00",
     "link": "https://piqmarkets.com/story/metis-techbio-eli-lilly-ink-up-to-1-1-billion-drug-delivery-deal",
@@ -999,16 +1004,6 @@
     "link": "https://piqmarkets.com/story/bbc-slashes-100-jobs-closes-two-channels-amid-cost-pressures",
     "title": "BBC slashes 100 jobs, closes two channels amid cost pressures"
   },
-  "80167891346713efb129dc6e9bcf215eec07ebfa3bf7307428d78d15a2cde80a": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/china-says-visa-approval-outcome-of-trump-xi-summit",
-    "title": "China says Visa approval outcome of Trump-Xi summit"
-  },
-  "8211d7101d825f4ba2d802a8552eab2d20acbd5023f2550af8f81ecd7e47a96c": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/kfc-nears-deal-to-switch-beverage-partner-from-pepsico-to-coca-cola",
-    "title": "KFC Nears Deal to Switch Beverage Partner From PepsiCo to Coca-Cola"
-  },
   "82d6e6bd2f062dcc5604183884ef36a9b6226db302a1a2ad8910ff55de408f5b": {
     "first_seen": "2026-10-21T15:13:45.900565+00:00",
     "link": "https://piqmarkets.com/story/california-state-workers-poised-to-strike-over-contract-impasse",
@@ -1033,11 +1028,6 @@
     "first_seen": "2026-10-21T10:06:59.844603+00:00",
     "link": "https://piqmarkets.com/story/south-korean-shoppers-flock-to-bulk-stores-driving-record-1-1-billion-in-sales",
     "title": "South Korean shoppers flock to bulk stores, driving record $1.1 billion in sales"
-  },
-  "855d3ce46ee029acc5fae193726d4567c17118cb9dbefa78b37109ea71844e73": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/schwarzman-recalls-1987-japanese-capital-influx",
-    "title": "Schwarzman Recalls 1987 Japanese Capital Influx"
   },
   "859c97fa7d8069b3a10a1ad67548f626e1deb05594bbdde300e6c21e59a3d42e": {
     "first_seen": "2026-10-17T17:09:05.216680+00:00",
@@ -1078,6 +1068,11 @@
     "first_seen": "2026-10-24T05:50:33.750646+00:00",
     "link": "https://piqmarkets.com/story/porridge-sees-resurgence-as-health-conscious-consumers-embrace-fibre-rich-oats",
     "title": "Porridge sees resurgence as health-conscious consumers embrace fibre-rich oats"
+  },
+  "8f799285f83b941dee50fff2ff780351c42962f99ad326f4c0af9da97174ff2e": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/southeast-asians-scale-back-weddings-amid-inflation-and-energy-crisis",
+    "title": "Southeast Asians scale back weddings amid inflation and energy crisis"
   },
   "8f8194f97d14069cf0b61cf3a529f3cae8a2f6f66b1e92838b20e96b7defd206": {
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
@@ -1173,11 +1168,6 @@
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
     "link": "https://piqmarkets.com/story/aeromexico-to-unveil-new-us-routes-next-week",
     "title": "Aeromexico to unveil new US routes next week"
-  },
-  "9a37106c0ed1759f74dd701fae5266a8ee9b548ae2a10e3cba8aeb5f8171717f": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/mitsui-to-spend-1-5bn-on-bid-to-take-penske-automotive-private",
-    "title": "Mitsui to spend $1.5bn on bid to take Penske Automotive private"
   },
   "9afd92ba925c7b7c51fcd17514cb50c0fddc791d7e1564941c798d2b1d9d0ab1": {
     "first_seen": "2026-10-22T04:41:12.450707+00:00",
@@ -1289,11 +1279,6 @@
     "link": "https://piqmarkets.com/story/chery-expects-overseas-production-to-exceed-50-of-exports-by-year-end",
     "title": "Chery expects overseas production to exceed 50% of exports by year-end"
   },
-  "a8b9044716ecf7619bf275c0293972de38f97d5e934919aec798acf834ce9e7a": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/porsche-previews-future-with-mission-s-supercar-concept",
-    "title": "Porsche previews future with Mission S supercar concept"
-  },
   "a9cdf0fa8551dfb331fd0ee945323e18d3b5a9e5440be4fe98a26b38fbb2264d": {
     "first_seen": "2026-10-19T15:34:49.962798+00:00",
     "link": "https://piqmarkets.com/story/saxo-bank-partners-with-nine-athletes-to-explore-investor-mindset",
@@ -1338,6 +1323,11 @@
     "first_seen": "2026-10-16T23:34:12.942971+00:00",
     "link": "https://piqmarkets.com/story/us-lifts-flight-restrictions-from-mexico-city-airports",
     "title": "US lifts flight restrictions from Mexico City airports"
+  },
+  "ae2f756e187b06b07f09d2d43cc7b71a0ba20d8b255a9c2b145f0e22c5dd391c": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/massachusetts-lesbian-bar-seeks-new-owners-after-relaxing-mask-policy",
+    "title": "Massachusetts lesbian bar seeks new owners after relaxing mask policy"
   },
   "ae7cde049264af65aa436708205b45b21820920939133aa53b6fda6948fab137": {
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
@@ -1548,6 +1538,11 @@
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
     "link": "https://piqmarkets.com/story/national-resilience-shutters-six-plants-amid-biotech-slowdown",
     "title": "National Resilience shutters six plants amid biotech slowdown"
+  },
+  "c66ba8376d008ad73de0d78279929d71c7e1eb24e6109363e1417ca94375a1a1": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/ben-jerry-s-founders-exploring-separation-deal-with-kkr-executive-wsj-says",
+    "title": "Ben & Jerry's founders exploring separation deal with KKR executive, WSJ says"
   },
   "c6a6d587c78fe33d2cf2999ec61184c866eb6123de50ba0d24308063269f4ac5": {
     "first_seen": "2026-10-25T11:36:23.829707+00:00",
@@ -1824,6 +1819,11 @@
     "link": "https://piqmarkets.com/story/rathbones-faces-60-million-hit-from-fca-review",
     "title": "Rathbones faces £60 million hit from FCA review"
   },
+  "edcdee7e04b636dd03549483b8af83f22948c056024a9a2871a91ad70c2b3c9a": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/reds10-group-acquires-majority-stake-in-us-modular-builder-mmy-us",
+    "title": "Reds10 Group acquires majority stake in US modular builder MMY US"
+  },
   "ee8b09d308e1637e99a523fd0ba8299ec38f931b9c7483aff0f26b9d5c04fe5f": {
     "first_seen": "2026-10-16T12:23:59.985033+00:00",
     "link": "https://piqmarkets.com/story/monkfield-reptile-secures-investment-from-bgf",
@@ -1838,11 +1838,6 @@
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
     "link": "https://piqmarkets.com/story/shein-outperforms-australian-retailers-on-ethics-report-finds",
     "title": "Shein outperforms Australian retailers on ethics, report finds"
-  },
-  "f1485f11b2981b134b7fefa697598625267750bcf31f9429b6ba79f731d408fc": {
-    "first_seen": "2026-10-15T22:15:31.636173+00:00",
-    "link": "https://piqmarkets.com/story/mitsui-to-launch-global-credit-rating-service-for-millions-of-firms",
-    "title": "Mitsui to launch global credit rating service for millions of firms"
   },
   "f18e7dcccb2f8a8207a40bd091aa0ed2f86d6d8b946a07b1c18d20cca66a09bc": {
     "first_seen": "2026-10-23T19:11:28.464193+00:00",
@@ -1963,6 +1958,11 @@
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
     "link": "https://piqmarkets.com/story/weil-gotshal-manges-in-merger-talks-amid-partner-departures",
     "title": "Weil Gotshal & Manges in Merger Talks Amid Partner Departures"
+  },
+  "fd7705954b216e4e18c1cca487ee231f73b4bd39bc12618aca87c3582ff88bea": {
+    "first_seen": "2026-10-26T23:51:10.983108+00:00",
+    "link": "https://piqmarkets.com/story/doordash-in-talks-to-buy-instacart-for-about-15-billion",
+    "title": "DoorDash in talks to buy Instacart for about $15 billion"
   },
   "fd7b3b2ea3f6712ce6bef3159ecae2225efe7876fee46ed5f8f845258d5aca78": {
     "first_seen": "2026-10-22T23:21:57.624549+00:00",
