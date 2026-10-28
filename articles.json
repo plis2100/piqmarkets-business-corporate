@@ -24,6 +24,11 @@
     "link": "https://piqmarkets.com/story/kameda-seika-exits-india-to-focus-on-north-america",
     "title": "Kameda Seika exits India to focus on North America"
   },
+  "04972d30a4bcc28fb5580e0c6d2f8979212bcd319bf45b8883e09731d7343566": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/volkswagen-s-89-year-journey-from-wartime-roots-to-reinvention",
+    "title": "Volkswagen's 89-year journey from wartime roots to reinvention"
+  },
   "04ab95a2f84ae9bcd0e24413b556f0eea329c7b548084d94443051e013319cbb": {
     "first_seen": "2026-10-22T15:16:37.116469+00:00",
     "link": "https://piqmarkets.com/story/deloitte-to-create-100-jobs-with-new-regional-deals-unit",
@@ -249,11 +254,6 @@
     "link": "https://piqmarkets.com/story/eli-lilly-executive-jonsson-to-retire-yuffa-to-lead-new-global-markets-unit",
     "title": "Eli Lilly executive Jonsson to retire; Yuffa to lead new global markets unit"
   },
-  "21ec59d69572d865caa058698070d7efa67662079a733d4c02dfa3cd19d8647c": {
-    "first_seen": "2026-10-17T13:42:34.493000+00:00",
-    "link": "https://piqmarkets.com/story/bosses-should-talk-less-in-meetings-research-suggests",
-    "title": "Bosses should talk less in meetings, research suggests"
-  },
   "2251ae5f06ee1e4694633046d295bce5434c30b8e82d8e2af4027f2df67c8939": {
     "first_seen": "2026-10-21T15:13:45.900565+00:00",
     "link": "https://piqmarkets.com/story/french-tourism-sector-unnerved-by-riots-with-sector-head-calling-it-catastrophic",
@@ -273,6 +273,11 @@
     "first_seen": "2026-10-18T23:10:14.192191+00:00",
     "link": "https://piqmarkets.com/story/dai-ichi-life-unit-proposes-to-buy-remaining-79-of-challenger",
     "title": "Dai-ichi Life unit proposes to buy remaining 79% of Challenger"
+  },
+  "2620e7e6ed79f34030d15ed905d32baa085f8d4480707bf00ace56f418dbee27": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/hongkong-post-reports-record-hk-905-million-deficit-in-ninth-year-of-losses",
+    "title": "Hongkong Post reports record HK$905 million deficit in ninth year of losses"
   },
   "2656108219c1aafe296d9f55539dd2835f9d427ca3fada94d04275cff0eb289f": {
     "first_seen": "2026-10-26T23:51:10.983108+00:00",
@@ -303,11 +308,6 @@
     "first_seen": "2026-10-17T17:09:05.216680+00:00",
     "link": "https://piqmarkets.com/story/nhs-trust-sacks-15-staff-for-accessing-victims-records",
     "title": "NHS trust sacks 15 staff for accessing victims' records"
-  },
-  "2c2730603dc7bb60658a3746c6483a812fb5697786f256bed2f3db0f67afaf63": {
-    "first_seen": "2026-10-17T17:09:05.216680+00:00",
-    "link": "https://piqmarkets.com/story/robert-jenrick-criticizes-deloitte-kpmg-over-job-cuts-and-hiring-of-foreign-workers",
-    "title": "Robert Jenrick criticizes Deloitte, KPMG over job cuts and hiring of foreign workers"
   },
   "2c8c51191fe71351887941f7fad1fb69b4ee5d8938a4e6be4a054a150f7c397a": {
     "first_seen": "2026-10-22T10:09:26.942263+00:00",
@@ -734,6 +734,11 @@
     "link": "https://piqmarkets.com/story/gm-joins-hybrid-race-late-as-toyota-gains-ground-in-us",
     "title": "GM joins hybrid race late as Toyota gains ground in US"
   },
+  "64364c2e9835bc3dcb2b1f96d4e74687ac8e2cc18c3775dd602257f49755bf5c": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/ubs-posts-2-7-billion-q3-profit-in-line-with-expectations",
+    "title": "UBS posts $2.7 billion Q3 profit, in line with expectations"
+  },
   "646a7b859ea9b730c2d32b64602dd8163e2a0493920c7eca5b02e07f4e600e5c": {
     "first_seen": "2026-10-27T21:17:22.077183+00:00",
     "link": "https://piqmarkets.com/story/mcdonald-s-mcrib-returns-again-after-farewell-tours",
@@ -919,11 +924,6 @@
     "link": "https://piqmarkets.com/story/world-cup-ticket-prices-spark-outrage-investigations",
     "title": "World Cup ticket prices spark outrage, investigations"
   },
-  "789ccfd123dab67fdfc20deb71b24c7cea37be53459daff9125794dda1c0a2d2": {
-    "first_seen": "2026-10-17T17:09:05.216680+00:00",
-    "link": "https://piqmarkets.com/story/mlb-faces-backlash-over-risque-playoff-ads",
-    "title": "MLB faces backlash over risqué playoff ads"
-  },
   "78cbdbda8b5034d5e61e6e76050390b07ecd1b54fa39ded6be377accf5ca0db8": {
     "first_seen": "2026-10-18T05:52:19.494301+00:00",
     "link": "https://piqmarkets.com/story/voice-phishing-cases-detected-by-major-banks-double-in-2025",
@@ -1003,11 +1003,6 @@
     "first_seen": "2026-10-21T10:06:59.844603+00:00",
     "link": "https://piqmarkets.com/story/south-korean-shoppers-flock-to-bulk-stores-driving-record-1-1-billion-in-sales",
     "title": "South Korean shoppers flock to bulk stores, driving record $1.1 billion in sales"
-  },
-  "859c97fa7d8069b3a10a1ad67548f626e1deb05594bbdde300e6c21e59a3d42e": {
-    "first_seen": "2026-10-17T17:09:05.216680+00:00",
-    "link": "https://piqmarkets.com/story/cereal-industry-seeks-health-pitch-amid-declining-sales",
-    "title": "Cereal Industry Seeks Health Pitch Amid Declining Sales"
   },
   "8628b7c62b5f77bd2c379ac2996ecb9f77a0d48609fb890651616c6440016f3e": {
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
@@ -1189,15 +1184,15 @@
     "link": "https://piqmarkets.com/story/comcast-loses-customers-calls-rival-pricing-irrational",
     "title": "Comcast loses customers, calls rival pricing irrational"
   },
-  "9bf8cf17c28c65826cfabe19235cd521d88aaf6fc20f210e3019d61ed4590bc9": {
-    "first_seen": "2026-10-17T13:42:34.493000+00:00",
-    "link": "https://piqmarkets.com/story/big-four-firms-secure-1-5bn-in-uk-government-contracts",
-    "title": "Big Four firms secure £1.5bn in UK government contracts"
-  },
   "9c3a586c9ba43ae71af4678e5d3f2ec4a914f7260daa5e84cd19bc6bffb531ad": {
     "first_seen": "2026-10-24T05:50:33.750646+00:00",
     "link": "https://piqmarkets.com/story/china-courts-weigh-pet-ownership-in-divorce-cases-prioritizing-care-over-microchips",
     "title": "China courts weigh pet ownership in divorce cases, prioritizing care over microchips"
+  },
+  "9cc46c992d924f6c8183177f466dc68a402bd042d941daada511293e28143295": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/heineken-ceo-says-more-accountability-needed-for-growth",
+    "title": "Heineken CEO says more accountability needed for growth"
   },
   "9d5d3fdbdcc516a494d375189ff54366766143dce10287c54dcf2ba075b4dd32": {
     "first_seen": "2026-10-18T23:10:14.192191+00:00",
@@ -1584,6 +1579,11 @@
     "link": "https://piqmarkets.com/story/rathbones-funds-rise-as-wealth-management-arm-returns-to-inflows",
     "title": "Rathbones funds rise as wealth management arm returns to inflows"
   },
+  "cbac2044ea2df78e05292d0e1203351fbc3b1c8478e5efb173180644cba87050": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/hoa-leaders-face-burnout-amid-resident-complaints-and-volunteer-burnout",
+    "title": "HOA leaders face burnout amid resident complaints and volunteer burnout"
+  },
   "cbe2a3ec775ce1888915c926afdb8b7edcbfac0af0af0393161a0fae6feb7568": {
     "first_seen": "2026-10-24T18:07:28.233230+00:00",
     "link": "https://piqmarkets.com/story/sol-de-janeiro-fragrances-ranked-from-worst-to-best",
@@ -1609,6 +1609,11 @@
     "link": "https://piqmarkets.com/story/raye-wins-2026-mercury-prize-for-this-music-may-contain-hope",
     "title": "Raye wins 2026 Mercury Prize for This Music May Contain Hope"
   },
+  "cd4c10962a69015d1f345d44b3f7fcacfb5f83eeb38c2663a5de9123eb8ca4e7": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/rio-tinto-proposes-56-pay-jump-for-ceo-amid-talent-competition",
+    "title": "Rio Tinto proposes 56% pay jump for CEO amid talent competition"
+  },
   "ceb951ac72db4b995a2cee9f90e57006831753610b96b65fca8b51a9a8132ef4": {
     "first_seen": "2026-10-18T14:33:44.862273+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-tourism-board-to-review-peak-lighting-project-after-public-outcry",
@@ -1628,11 +1633,6 @@
     "first_seen": "2026-10-19T07:44:58.293943+00:00",
     "link": "https://piqmarkets.com/story/accenture-eyes-sale-of-chinese-operations-for-up-to-1-5bn",
     "title": "Accenture eyes sale of Chinese operations for up to $1.5bn"
-  },
-  "d357ff884690a3303c8463e61274cac67b8b5a530022f272e4e6e42d7b9b82f6": {
-    "first_seen": "2026-10-17T13:42:34.493000+00:00",
-    "link": "https://piqmarkets.com/story/uk-water-bills-could-rise-40-if-sector-is-downgraded-industry-chief-warns",
-    "title": "UK water bills could rise £40 if sector is downgraded, industry chief warns"
   },
   "d3b0a9fe54a63fd21c36ed19b8341a31a34cdef95975b5941fe5391d09e6c605": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
@@ -1894,11 +1894,6 @@
     "link": "https://piqmarkets.com/story/deloitte-uk-chief-s-pay-rises-to-7-1-million-amid-workforce-cuts",
     "title": "Deloitte UK chief's pay rises to £7.1 million amid workforce cuts"
   },
-  "f6f5ca8f044c8a6eccf136d8c11939ce81e3cea6113f24ca911d75620751c11e": {
-    "first_seen": "2026-10-17T17:09:05.216680+00:00",
-    "link": "https://piqmarkets.com/story/netflix-cuts-1-000-jobs-and-fires-chief-content-officer-amid-slowing-growth",
-    "title": "Netflix cuts 1,000 jobs and fires chief content officer amid slowing growth"
-  },
   "f6fed8f5d50b128eb31a1658760a55dd69bd4e7bdb93d3203443216312aee485": {
     "first_seen": "2026-10-19T07:44:58.293943+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-leader-vows-accountability-over-faulty-hospital-lifts",
@@ -1918,6 +1913,11 @@
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
     "link": "https://piqmarkets.com/story/dangote-refinery-ipo-attracts-investors-from-119-nations-eyes-2-1-billion",
     "title": "Dangote Refinery IPO Attracts Investors From 119 Nations, Eyes $2.1 Billion"
+  },
+  "f93f5e55f97027a33c3bda639942c6792bacc06132be3dabab4fa7054a58aa10": {
+    "first_seen": "2026-10-28T08:27:11.034788+00:00",
+    "link": "https://piqmarkets.com/story/lao-gan-ma-denies-ai-layoff-claims-amid-consumer-backlash",
+    "title": "Lao Gan Ma denies AI layoff claims amid consumer backlash"
   },
   "f9b607572c2efe196c11640d69e389526a0d6189b3fe0b7104cb563b7fc399a9": {
     "first_seen": "2026-10-21T23:18:00.218114+00:00",
