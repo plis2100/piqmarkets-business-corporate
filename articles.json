@@ -29,6 +29,11 @@
     "link": "https://piqmarkets.com/story/kameda-seika-exits-india-to-focus-on-north-america",
     "title": "Kameda Seika exits India to focus on North America"
   },
+  "03dfc5acab2e1ec53d3eec6ad9337b6d0c59dae59762f8aa0b81c29f1da0fe58": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/openai-backed-thrive-holdings-buys-adt-for-7-6-billion",
+    "title": "OpenAI-backed Thrive Holdings buys ADT for $7.6 billion"
+  },
   "04972d30a4bcc28fb5580e0c6d2f8979212bcd319bf45b8883e09731d7343566": {
     "first_seen": "2026-10-28T08:27:11.034788+00:00",
     "link": "https://piqmarkets.com/story/volkswagen-s-89-year-journey-from-wartime-roots-to-reinvention",
@@ -43,11 +48,6 @@
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
     "link": "https://piqmarkets.com/story/pop-mart-revenue-plunges-up-to-50-on-weak-labubu-sales",
     "title": "Pop Mart revenue plunges up to 50% on weak Labubu sales"
-  },
-  "0720188d473bfa60751467682d52c1067bfe4ab1d118e03d8ebae04ec70af77b": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/usda-and-washington-state-university-open-new-agricultural-research-facility",
-    "title": "USDA and Washington State University open new agricultural research facility"
   },
   "07b8520a098c0a3322a7fa4a9e96ea1985a4682dcb3cf40ee6af9d07888a6034": {
     "first_seen": "2026-10-27T21:17:22.077183+00:00",
@@ -114,11 +114,6 @@
     "link": "https://piqmarkets.com/story/bank-of-america-plans-new-branches-in-wisconsin-alabama-new-orleans",
     "title": "Bank of America plans new branches in Wisconsin, Alabama, New Orleans"
   },
-  "0f03d8aed413745f0e82a7dba7703114acb74c55b8106d9a3252054c6465a44a": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/kkr-to-sell-railcar-leasing-company-infinity-to-ares-for-2-9-billion",
-    "title": "KKR to sell railcar-leasing company Infinity to Ares for $2.9 billion"
-  },
   "0f339362302d53864e6b85e929ee44cc699c58719f6b3cf4a19c8bf70f7ac5ee": {
     "first_seen": "2026-10-22T10:09:26.942263+00:00",
     "link": "https://piqmarkets.com/story/norway-wealth-fund-posts-30-billion-loss-in-third-quarter",
@@ -154,10 +149,20 @@
     "link": "https://piqmarkets.com/story/opendoor-names-ceo-kaz-nejatian-president-after-matheson-steps-down",
     "title": "Opendoor names CEO Kaz Nejatian president after Matheson steps down"
   },
+  "11b63c274144e56d1b2bfdf818a6caa8a59fe606d89fadd3b2dd193c471fd972": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/recruiting-agents-requires-process-not-just-coffee-data-shows",
+    "title": "Recruiting agents requires process, not just coffee, data shows"
+  },
   "128e57ce121d787b83eec49b014d37d3101e39560706788b050cdfb896c3b750": {
     "first_seen": "2026-10-26T13:07:42.783740+00:00",
     "link": "https://piqmarkets.com/story/t-mobile-debuts-customizable-wireless-plans-with-perks-from-streaming-to-food",
     "title": "T-Mobile debuts customizable wireless plans with perks from streaming to food"
+  },
+  "140616fdadcf1600e24e5d94a9502a264c06c42b993a7cb2981aecb6a51a9727": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/airbnb-nonprofit-gala-sparks-confusion-online",
+    "title": "Airbnb nonprofit gala sparks confusion online"
   },
   "14d408729aa9ae89518df05002adeb79164eef6882c98b04f43f5b83d0d53437": {
     "first_seen": "2026-10-21T20:08:36.142076+00:00",
@@ -199,11 +204,6 @@
     "link": "https://piqmarkets.com/story/jpmorgan-chase-faces-100m-plus-tax-bill-from-healey-raid",
     "title": "JPMorgan Chase faces £100m-plus tax bill from Healey raid"
   },
-  "1975ac217bee6376c4a5c501db9d8ad681920e1da892a61f688b5edfba2397f1": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/chicago-feed-plant-temporarily-closed-over-odor-and-pollution-concerns",
-    "title": "Chicago feed plant temporarily closed over odor and pollution concerns"
-  },
   "199e94d3fd4832a471d07f54ce4239677ba6de01aa10774e5cfa84641ef01518": {
     "first_seen": "2026-10-28T01:19:06.884575+00:00",
     "link": "https://piqmarkets.com/story/wealthsimple-raises-425-million-at-13-8-billion-valuation",
@@ -213,11 +213,6 @@
     "first_seen": "2026-10-27T10:31:30.888760+00:00",
     "link": "https://piqmarkets.com/story/poundland-directors-poised-to-quit-as-collapse-risk-mounts",
     "title": "Poundland directors poised to quit as collapse risk mounts"
-  },
-  "1abbd2098f0c5aa1ad71690aafae2ced4ae71d0758d685416b60e5a54a8c61a3": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/mclaren-to-sell-five-f1-cars-for-an-estimated-50m",
-    "title": "McLaren to sell five F1 cars for an estimated £50m"
   },
   "1af532e87e5300c9c1fe6f1c81e4429e764fbf9ae1568405e9ecfd0535b996d0": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
@@ -344,6 +339,26 @@
     "link": "https://piqmarkets.com/story/schwarzman-recalls-financial-crisis-blackstone-s-growth",
     "title": "Schwarzman recalls financial crisis, Blackstone's growth"
   },
+  "2e29d2226056a6a9097c65a66f1a18fde6be6ee5aed42e2313aa4c1c4db2eb56": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/thailand-s-ptt-and-siam-cement-to-combine-polyolefin-plastics-units",
+    "title": "Thailand's PTT and Siam Cement to combine polyolefin plastics units"
+  },
+  "2ebc2c412eb4cdd70eee3a25155abe0e280b7c31782194fb220cf8e4b1a50e8e": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/komatsu-lifts-profit-outlook-on-strong-americas-demand",
+    "title": "Komatsu lifts profit outlook on strong Americas demand"
+  },
+  "2ec16f572cd9366908a586d01f81023232824e9c0fa83ba841c54206f101f86f": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/shepherd-neame-to-invest-15m-in-new-brewery-and-sell-off-land",
+    "title": "Shepherd Neame to invest £15m in new brewery and sell off land"
+  },
+  "2f0baaf21585a8ebf6768d63631543c5d3cc4a25ffcff6d43cef35255c30635b": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/ftc-states-sue-toast-over-fees-deceptive-subscription-practices",
+    "title": "FTC, states sue Toast over fees, deceptive subscription practices"
+  },
   "30f6924c5525e8b69f288705137f900532a01276ac09a6d74a2ac55bb1a32637": {
     "first_seen": "2026-10-22T10:09:26.942263+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-port-seeks-value-driven-transformation-amid-trade-shifts",
@@ -353,11 +368,6 @@
     "first_seen": "2026-10-28T15:59:28.220208+00:00",
     "link": "https://piqmarkets.com/story/burnley-fc-parent-company-faces-liquidation-threat",
     "title": "Burnley FC parent company faces liquidation threat"
-  },
-  "3152f83652fbdd2c0346b4a06ebdb2bbd6506e285ce06fdc98eb823737fbdb94": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/bank-of-england-reviews-barclays-handling-of-private-credit-loans",
-    "title": "Bank of England reviews Barclays’ handling of private credit loans"
   },
   "31880fd6ee691a675ef4e50e013a7604ee8d95985a6962ad594dbc7ace187126": {
     "first_seen": "2026-10-25T06:11:57.307157+00:00",
@@ -388,6 +398,11 @@
     "first_seen": "2026-10-21T15:13:45.900565+00:00",
     "link": "https://piqmarkets.com/story/foursquare-co-founder-says-investors-saw-no-returns-from-acquisition",
     "title": "Foursquare co-founder says investors saw no returns from acquisition"
+  },
+  "3350402db5224bf3240eac2aca502cc7ecd9f11c9a6397fe758ae62b82debe11": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/perrigo-to-sell-infant-formula-business-to-meridianmade-for-up-to-175-million",
+    "title": "Perrigo to sell infant formula business to MeridianMade for up to $175 million"
   },
   "33fc0907acd7f6d21364288c66280c5a71186e249c9b8974ab820674d40f6c4b": {
     "first_seen": "2026-10-21T23:18:00.218114+00:00",
@@ -449,11 +464,6 @@
     "link": "https://piqmarkets.com/story/beauty-giants-eye-ozempic-face-market-as-obesity-drugs-boom",
     "title": "Beauty giants eye 'Ozempic face' market as obesity drugs boom"
   },
-  "3b3e90eb0c44f9651e695c22f755d32c9d9649327302f22382cf679b6a37aeae": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/hellofresh-workers-allege-abuse-denied-breaks-in-class-action-suit",
-    "title": "HelloFresh workers allege abuse, denied breaks in class action suit"
-  },
   "3b9842a4fa4debde0ea6da9ca8afa75c2e2026ce65a4426848d2176d9f0800d3": {
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
     "link": "https://piqmarkets.com/story/virgin-atlantic-fury-as-heathrow-forces-delta-terminal-move",
@@ -473,6 +483,11 @@
     "first_seen": "2026-10-26T19:17:01.543718+00:00",
     "link": "https://piqmarkets.com/story/conocophillips-to-cut-canadian-workforce",
     "title": "ConocoPhillips to cut Canadian workforce"
+  },
+  "3ef907e8b3cd600877346f544fb91cf3b5a559031843bcb9bf7f8ca9b1a3315e": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/howard-hanna-expands-to-alabama-through-partnership-with-arc-capstone",
+    "title": "Howard Hanna Expands to Alabama Through Partnership With ARC, Capstone"
   },
   "3fbe473ec8dc74ddd8fe737f70698ee421d9e44e7a68b3252d84d24bb9f5dc8e": {
     "first_seen": "2026-10-23T19:11:28.464193+00:00",
@@ -513,6 +528,11 @@
     "first_seen": "2026-10-21T20:08:36.142076+00:00",
     "link": "https://piqmarkets.com/story/modella-capital-exits-poundland-acquisition-race",
     "title": "Modella Capital exits Poundland acquisition race"
+  },
+  "44ab285f6f8f271d26ae987a4a42b23423babb50ba9db2a89e125b1742027072": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/radian-names-new-cfo-cio-and-p-c-strategy-lead",
+    "title": "Radian names new CFO, CIO and P&C strategy lead"
   },
   "44e74a2720d94605e7fc11749366927bb352a400a078473a0a2780d9f2984b97": {
     "first_seen": "2026-10-22T04:41:12.450707+00:00",
@@ -614,11 +634,6 @@
     "link": "https://piqmarkets.com/story/aviation-widens-class-divide-with-caviar-champagne-and-porsche-rides",
     "title": "Aviation widens class divide with caviar, champagne and Porsche rides"
   },
-  "4e2520adc47e9989c20b1caf5134eaa7f354c0e2c4d3478fef74df2130eab97c": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/hyperlayer-raises-30m-to-expand-fintech-platform",
-    "title": "Hyperlayer raises £30m to expand fintech platform"
-  },
   "4ebcf3a767ca5c26452de2d79d96cd1475db4f9beea1e2b387af66d8a94e447c": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-sauce-maker-kui-lee-to-close-after-90-years",
@@ -633,11 +648,6 @@
     "first_seen": "2026-10-21T10:06:59.844603+00:00",
     "link": "https://piqmarkets.com/story/domino-s-pizza-sales-growth-slows-after-world-cup-boost",
     "title": "Domino's Pizza sales growth slows after World Cup boost"
-  },
-  "51ce5875278afaf2b6dae082dcba55461990e5a61cfedb4328b61b383bc9dd41": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/natwest-taps-credit-agricole-for-new-markets-ceo",
-    "title": "NatWest taps Crédit Agricole for new markets CEO"
   },
   "51da5f67e9a24c03e74cddc1a854f70a64d741335dff896d27f0ade88ff5cb2e": {
     "first_seen": "2026-10-25T11:36:23.829707+00:00",
@@ -654,10 +664,10 @@
     "link": "https://piqmarkets.com/story/iceland-eyes-poundland-stores-as-buyers-circle-budget-retailer",
     "title": "Iceland eyes Poundland stores as buyers circle budget retailer"
   },
-  "54a8cb6e156e26a0f1e09efc44a1e30ee1ee230a1ff66ce474aff90df474b2cc": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/pwc-revenue-tops-56-9-billion-in-fy25-driven-by-americas-and-asia-pacific",
-    "title": "PwC revenue tops $56.9 billion in FY25, driven by Americas and Asia Pacific"
+  "5483e764537b14431484092e0f6ab89a461303dd12ddf8927963959187899267": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/doordash-s-instacart-deal-may-draw-ftc-scrutiny-amid-cost-of-living-concerns",
+    "title": "DoorDash's Instacart deal may draw FTC scrutiny amid cost-of-living concerns"
   },
   "54ae0f436cf04bdca74627176e713f6934d41ce44b6511b1b8e5b8dfd6520d64": {
     "first_seen": "2026-10-28T21:01:30.633930+00:00",
@@ -744,6 +754,11 @@
     "link": "https://piqmarkets.com/story/gm-joins-hybrid-race-late-as-toyota-gains-ground-in-us",
     "title": "GM joins hybrid race late as Toyota gains ground in US"
   },
+  "6423edd9d7b3ce7eaee0ff02cf4bdb67a1a3e64d3a812a85bae1a8c4ea483c8f": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/california-quartz-ban-pushes-contractors-to-alternatives",
+    "title": "California Quartz Ban Pushes Contractors to Alternatives"
+  },
   "64364c2e9835bc3dcb2b1f96d4e74687ac8e2cc18c3775dd602257f49755bf5c": {
     "first_seen": "2026-10-28T08:27:11.034788+00:00",
     "link": "https://piqmarkets.com/story/ubs-posts-2-7-billion-q3-profit-in-line-with-expectations",
@@ -783,11 +798,6 @@
     "first_seen": "2026-10-26T19:17:01.543718+00:00",
     "link": "https://piqmarkets.com/story/highway-thieves-spoof-gps-to-steal-millions-in-data-center-cargo",
     "title": "Highway thieves spoof GPS to steal millions in data center cargo"
-  },
-  "682b1bdbd0ade70a2b790adabbb5e65a142fb27eb850e53e215d81e83620fe38": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/taco-chain-s-pe-deal-highlights-limited-capital-options-for-businesses",
-    "title": "Taco Chain's PE Deal Highlights Limited Capital Options for Businesses"
   },
   "6a5e2891750952f0ce6cce54c5ebbbeaaafabd1ecdf367a0a7de62bf5bccf56c": {
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
@@ -848,11 +858,6 @@
     "first_seen": "2026-10-26T23:51:10.983108+00:00",
     "link": "https://piqmarkets.com/story/universal-music-group-explored-going-private-with-buyout-firms",
     "title": "Universal Music Group explored going private with buyout firms"
-  },
-  "6e9bac61822f85d706ee3f2f424453aeff417befe28a6dc6bfffc05e5566767c": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/kylie-jenner-s-50m-victoria-s-secret-bra-debut-sparks-debate",
-    "title": "Kylie Jenner's $50m Victoria's Secret bra debut sparks debate"
   },
   "6ea58a68a89098a8aaa980abb30a5837d87f37bdff13fcf60da2add715a2d64c": {
     "first_seen": "2026-10-27T10:31:30.888760+00:00",
@@ -968,11 +973,6 @@
     "first_seen": "2026-10-27T21:17:22.077183+00:00",
     "link": "https://piqmarkets.com/story/equity-union-launches-agent-healthcare-program-with-trident-bpo",
     "title": "Equity Union launches agent healthcare program with Trident BPO"
-  },
-  "7dd652558a3833b694a3c01eb4244384d7d0a2a30187df54e1fbe6165ee52147": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/metis-techbio-eli-lilly-ink-up-to-1-1-billion-drug-delivery-deal",
-    "title": "Metis TechBio, Eli Lilly ink up to $1.1 billion drug delivery deal"
   },
   "7e6090ba98ed7038c482313d363346cf90e448296011f21207923fedc45d891b": {
     "first_seen": "2026-10-22T23:21:57.624549+00:00",
@@ -1144,6 +1144,11 @@
     "link": "https://piqmarkets.com/story/trump-says-bombardier-to-invest-270-million-in-us",
     "title": "Trump says Bombardier to invest $270 million in US"
   },
+  "959546731f0761f146cfa61ae58bd2308f1c799ed2d6605a5918dedc811bd356": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/coca-cola-ceo-dislikes-fridge-cigarette-nickname-for-diet-coke",
+    "title": "Coca-Cola CEO dislikes 'fridge cigarette' nickname for Diet Coke"
+  },
   "95ca4452cf674f65a9594171189a3b3e7ad4a39b38d98edc1e60f91ebdf9ebb3": {
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
     "link": "https://piqmarkets.com/story/hd-hyundai-kiewit-to-build-us-shipyard-create-3-000-jobs",
@@ -1168,11 +1173,6 @@
     "first_seen": "2026-10-21T23:18:00.218114+00:00",
     "link": "https://piqmarkets.com/story/meta-creates-new-stock-class-to-maintain-zuckerberg-s-control",
     "title": "Meta Creates New Stock Class to Maintain Zuckerberg's Control"
-  },
-  "97f8e8375ff911990963939acdcc4fb89e1c58d8ba48ec6c0e9150875d2c6bc3": {
-    "first_seen": "2026-10-19T15:34:49.962798+00:00",
-    "link": "https://piqmarkets.com/story/exp-realty-settles-sex-trafficking-lawsuit-ahead-of-trial",
-    "title": "eXp Realty settles sex trafficking lawsuit ahead of trial"
   },
   "9833c9dbffaf69caee2580ceba58ac113c6220bb19c46e0b576d475a3cbf1029": {
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
@@ -1513,6 +1513,11 @@
     "first_seen": "2026-10-23T22:12:56.449687+00:00",
     "link": "https://piqmarkets.com/story/german-carmakers-pivot-to-defense-amid-china-market-struggles",
     "title": "German carmakers pivot to defense amid China market struggles"
+  },
+  "c3defdacd1fa6b27dc9eb657b39f99b57a5bc87158a7972518242e2788c5da8d": {
+    "first_seen": "2026-10-29T20:16:13.839707+00:00",
+    "link": "https://piqmarkets.com/story/nyc-mayor-mamdani-criticizes-doordash-s-17b-instacart-deal",
+    "title": "NYC Mayor Mamdani criticizes DoorDash's $17B Instacart deal"
   },
   "c4d431562ae2fd0a82bc0c5d8b01aba56c8714700054db70ba33fc904c121c8a": {
     "first_seen": "2026-10-24T14:31:05.210371+00:00",
@@ -1948,11 +1953,6 @@
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
     "link": "https://piqmarkets.com/story/app-developers-hike-prices-squeezing-loyal-users-for-revenue",
     "title": "App developers hike prices, squeezing loyal users for revenue"
-  },
-  "fd4640440ebb9e60c80ee563a2cf33a85d90894e9271a2c0f7367e5b4e81d099": {
-    "first_seen": "2026-10-21T04:43:18.646341+00:00",
-    "link": "https://piqmarkets.com/story/weil-gotshal-manges-in-merger-talks-amid-partner-departures",
-    "title": "Weil Gotshal & Manges in Merger Talks Amid Partner Departures"
   },
   "fd7705954b216e4e18c1cca487ee231f73b4bd39bc12618aca87c3582ff88bea": {
     "first_seen": "2026-10-26T23:51:10.983108+00:00",
