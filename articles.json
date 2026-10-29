@@ -274,11 +274,6 @@
     "link": "https://piqmarkets.com/story/ups-raises-2026-profit-revenue-forecasts-on-higher-paying-shipments",
     "title": "UPS raises 2026 profit, revenue forecasts on higher-paying shipments"
   },
-  "252577ace086bbf1c59eb7ab9f8bbfe40ddf27b68249ec2b837091856c18677c": {
-    "first_seen": "2026-10-18T23:10:14.192191+00:00",
-    "link": "https://piqmarkets.com/story/dai-ichi-life-unit-proposes-to-buy-remaining-79-of-challenger",
-    "title": "Dai-ichi Life unit proposes to buy remaining 79% of Challenger"
-  },
   "2620e7e6ed79f34030d15ed905d32baa085f8d4480707bf00ace56f418dbee27": {
     "first_seen": "2026-10-28T08:27:11.034788+00:00",
     "link": "https://piqmarkets.com/story/hongkong-post-reports-record-hk-905-million-deficit-in-ninth-year-of-losses",
@@ -539,6 +534,11 @@
     "link": "https://piqmarkets.com/story/konecta-seeks-lender-forbearance-for-debt-restructuring",
     "title": "Konecta Seeks Lender Forbearance for Debt Restructuring"
   },
+  "4786aa385a31d7cbc5b34bb79939e454b29c15e031e76a585308ac63bb9ef12c": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/star-entertainment-accepts-183-6-million-anti-money-laundering-penalty",
+    "title": "Star Entertainment accepts $183.6 million anti-money laundering penalty"
+  },
   "495c9cc3b3ab531fc408bb4d6a001512142cd4f67c425e2cbf8757657aa9a95b": {
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
     "link": "https://piqmarkets.com/story/china-cancer-patient-who-inspired-hit-film-hopes-to-stop-treatment",
@@ -678,11 +678,6 @@
     "first_seen": "2026-10-23T04:46:29.922592+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-wine-and-dine-festival-to-feature-over-340-booths",
     "title": "Hong Kong Wine and Dine Festival to feature over 340 booths"
-  },
-  "574a3604c1677b7be50bf74b8f3e32422479aaafc44c904fec461808f3de2f18": {
-    "first_seen": "2026-10-19T01:17:25.769627+00:00",
-    "link": "https://piqmarkets.com/story/oasis-management-considers-extraordinary-meeting-to-revamp-nidec-board",
-    "title": "Oasis Management considers extraordinary meeting to revamp Nidec board"
   },
   "588aec70b7c345b12ed3cc7c636a2dfe97777a485219a26dff95b1765254cda5": {
     "first_seen": "2026-10-19T07:44:58.293943+00:00",
@@ -958,6 +953,11 @@
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
     "link": "https://piqmarkets.com/story/shrinkflation-supermarkets-reduce-product-size-while-keeping-prices-steady",
     "title": "Shrinkflation: Supermarkets reduce product size while keeping prices steady"
+  },
+  "7c848be19f4e7dd11ae422f5b622d1cbc0a02a4f702a7e98e3f0691d507c65b3": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/george-michael-s-guitar-and-memorabilia-up-for-auction-amid-family-dispute",
+    "title": "George Michael's guitar and memorabilia up for auction amid family dispute"
   },
   "7cf7a4a373e1b98c05ebb66cff7653ed41c4250d72abdead74ddcf86f24266db": {
     "first_seen": "2026-10-27T21:17:22.077183+00:00",
@@ -1479,6 +1479,11 @@
     "link": "https://piqmarkets.com/story/microsoft-offers-buyouts-to-eligible-employees-in-us-uk-canada-india",
     "title": "Microsoft offers buyouts to eligible employees in US, UK, Canada, India"
   },
+  "c14974fca81f4608547ac3c7a088a3d733e55d5766bb703a0e8b4f03c6ef9015": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/ge-vernova-buys-trench-for-9-billion-boosts-2026-revenue-outlook",
+    "title": "GE Vernova Buys Trench for $9 Billion, Boosts 2026 Revenue Outlook"
+  },
   "c156c9f66463da33168d243fa266c580f300eaa821a450a1e4393d673abba44d": {
     "first_seen": "2026-10-19T15:34:49.962798+00:00",
     "link": "https://piqmarkets.com/story/real-estate-agents-coached-on-who-they-are-being-when-production-stalls",
@@ -1559,11 +1564,6 @@
     "link": "https://piqmarkets.com/story/japan-s-shiga-bank-and-senshu-ikeda-holdings-in-merger-talks",
     "title": "Japan's Shiga Bank and Senshu Ikeda Holdings in merger talks"
   },
-  "c8f44ec7b26712ecbfdbd7be68be97ef2127faf0142fba08fb0e9cf7c27b8b74": {
-    "first_seen": "2026-10-19T07:44:58.293943+00:00",
-    "link": "https://piqmarkets.com/story/perfumers-explore-if-weight-loss-drugs-are-changing-consumer-scent-preferences",
-    "title": "Perfumers explore if weight-loss drugs are changing consumer scent preferences"
-  },
   "c918196cc8274260dee13c60d1baed29cbe6b406b7105d290d1d78bb44675300": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
     "link": "https://piqmarkets.com/story/citi-wins-china-licence-for-wholly-owned-securities-unit",
@@ -1618,11 +1618,6 @@
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
     "link": "https://piqmarkets.com/story/delta-air-lines-bets-on-premium-travel-to-win-hong-kong-market-share",
     "title": "Delta Air Lines bets on premium travel to win Hong Kong market share"
-  },
-  "d338ad9f8ed70e3bce7c98f9ac6c69504200a2a1591a293b81d55c4836643279": {
-    "first_seen": "2026-10-19T07:44:58.293943+00:00",
-    "link": "https://piqmarkets.com/story/accenture-eyes-sale-of-chinese-operations-for-up-to-1-5bn",
-    "title": "Accenture eyes sale of Chinese operations for up to $1.5bn"
   },
   "d3b0a9fe54a63fd21c36ed19b8341a31a34cdef95975b5941fe5391d09e6c605": {
     "first_seen": "2026-10-23T10:02:05.271427+00:00",
@@ -1719,6 +1714,11 @@
     "link": "https://piqmarkets.com/story/opmobility-posts-2-8-revenue-gain-in-q3-amid-restructuring",
     "title": "OPmobility posts 2.8% revenue gain in Q3 amid restructuring"
   },
+  "dfa85d25c79f7c669ea6fb82ec247898395969b4788347917537ae34f51ae03c": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/tello-offers-10gb-cell-plan-for-10-monthly-for-three-months-2",
+    "title": "Tello offers 10GB cell plan for $10 monthly for three months"
+  },
   "e017dc8768f5bff41c67410b0909d8031f3c8288607c4e8401fa780a537db2a3": {
     "first_seen": "2026-10-21T15:13:45.900565+00:00",
     "link": "https://piqmarkets.com/story/uk-banks-brace-for-sour-loan-spike-as-household-savings-dwindle",
@@ -1728,11 +1728,6 @@
     "first_seen": "2026-10-21T04:43:18.646341+00:00",
     "link": "https://piqmarkets.com/story/elon-musk-eyes-tesla-spacex-merger-citing-ai-and-tech-synergies",
     "title": "Elon Musk eyes Tesla-SpaceX merger, citing AI and tech synergies"
-  },
-  "e0a742197fe95c38937407a51d8ad2237fc1c5c6b897a505e079906f7ec6a715": {
-    "first_seen": "2026-10-19T07:44:58.293943+00:00",
-    "link": "https://piqmarkets.com/story/india-protests-disrupt-festive-sales-traders-report-42-million-daily-risk",
-    "title": "India protests disrupt festive sales, traders report $42 million daily risk"
   },
   "e2274a309a55a466888acc5267fedddfacfae4ae47e57cfacf41b2dc06d84620": {
     "first_seen": "2026-10-26T19:17:01.543718+00:00",
@@ -1778,6 +1773,11 @@
     "first_seen": "2026-10-21T20:08:36.142076+00:00",
     "link": "https://piqmarkets.com/story/real-brokerage-expands-real-wallet-into-agent-financial-hub",
     "title": "Real Brokerage expands Real Wallet into agent financial hub"
+  },
+  "e69e5a5debc46770bb2e06b4c89ffd7acfd1dfce24810d77e1df3685e2a227cb": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/jose-cuervo-distiller-becle-posts-85-profit-slump-on-weaker-demand",
+    "title": "Jose Cuervo distiller Becle posts 85% profit slump on weaker demand"
   },
   "e8bdfe4440e5c83ca4862d15043478966140f58d47cd4e502f02f661743ec05d": {
     "first_seen": "2026-10-21T10:06:59.844603+00:00",
@@ -1879,10 +1879,10 @@
     "link": "https://piqmarkets.com/story/cofco-recognized-for-esg-achievements",
     "title": "COFCO recognized for ESG achievements"
   },
-  "f483228f2f9b28aa50f41245b54efab5859c351b0d602057a4585a21a0fa5f3b": {
-    "first_seen": "2026-10-19T07:44:58.293943+00:00",
-    "link": "https://piqmarkets.com/story/national-museum-chief-apologizes-for-misattributed-artwork",
-    "title": "National museum chief apologizes for misattributed artwork"
+  "f467e1aa39a6166d5e305d8b9fea1fce3c03ba52ff5b4ece28cf05f0a1ee5ffe": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/bari-weiss-dismisses-60-minutes-ratings-concerns-as-noise",
+    "title": "Bari Weiss dismisses 60 Minutes ratings concerns as 'noise'"
   },
   "f557f1193a0d8ed57d222c9b9341e489d317cf1934156770fce5e4c3731b68d0": {
     "first_seen": "2026-10-21T23:18:00.218114+00:00",
@@ -1898,11 +1898,6 @@
     "first_seen": "2026-10-26T19:17:01.543718+00:00",
     "link": "https://piqmarkets.com/story/deloitte-uk-chief-s-pay-rises-to-7-1-million-amid-workforce-cuts",
     "title": "Deloitte UK chief's pay rises to £7.1 million amid workforce cuts"
-  },
-  "f6fed8f5d50b128eb31a1658760a55dd69bd4e7bdb93d3203443216312aee485": {
-    "first_seen": "2026-10-19T07:44:58.293943+00:00",
-    "link": "https://piqmarkets.com/story/hong-kong-leader-vows-accountability-over-faulty-hospital-lifts",
-    "title": "Hong Kong leader vows accountability over faulty hospital lifts"
   },
   "f716e7f190ab0c8e333b26595d65b0d87c6ca9c7ff7953a0b0e9c460c94d1456": {
     "first_seen": "2026-10-23T15:02:55.873680+00:00",
@@ -1933,6 +1928,11 @@
     "first_seen": "2026-10-21T15:13:45.900565+00:00",
     "link": "https://piqmarkets.com/story/playstation-founder-calls-anger-over-disc-discontinuation-a-mentality-issue",
     "title": "PlayStation Founder Calls Anger Over Disc Discontinuation a 'Mentality Issue'"
+  },
+  "fb0c645833881eddb967f20dd70f1c24188e23cfc9b86aa6e8cd4442d0940b32": {
+    "first_seen": "2026-10-29T00:53:59.076384+00:00",
+    "link": "https://piqmarkets.com/story/albertsons-to-stop-insuring-spouses-eligible-for-their-own-coverage",
+    "title": "Albertsons to stop insuring spouses eligible for their own coverage"
   },
   "fbe92d955271e6bae1e2c4609bba50ff20570f092e76cf37ac7f4d1d5c497adc": {
     "first_seen": "2026-10-27T16:36:35.949881+00:00",
