@@ -39,11 +39,6 @@
     "link": "https://piqmarkets.com/story/tesla-misled-south-korean-buyers-on-automated-driving-software-consumer-group-alleged",
     "title": "Tesla misled South Korean buyers on automated-driving software, consumer group alleged"
   },
-  "05f5fdd0699df25b90eaa63ca18d4fefbd47b0cf355042eb17371d3145cb8d87": {
-    "first_seen": "2026-10-27T16:36:35.949881+00:00",
-    "link": "https://piqmarkets.com/story/pop-mart-revenue-plunges-up-to-50-on-weak-labubu-sales",
-    "title": "Pop Mart revenue plunges up to 50% on weak Labubu sales"
-  },
   "06f59c9dc5eeb83558840f754bac6bd929f26ae5f98af02f258e9a483e16a23b": {
     "first_seen": "2026-11-04T17:13:39.136098+00:00",
     "link": "https://piqmarkets.com/story/better-home-finance-reports-30-4m-in-annualized-savings-under-better-2-0",
@@ -404,6 +399,11 @@
     "link": "https://piqmarkets.com/story/stellantis-extends-fiat-500-plant-stoppage-through-november-13",
     "title": "Stellantis extends Fiat 500 plant stoppage through November 13"
   },
+  "2c9f8f9773975adc13edb18f33a04323b92f7718e6370bbf32a4334e2ea27204": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/starbucks-plans-7-500-uk-hires-to-staff-500-new-shops-by-2031",
+    "title": "Starbucks plans 7,500 UK hires to staff 500 new shops by 2031"
+  },
   "2ce5095a4ced543c2f48522c804eeb78911ec968a348844484f725d30a252453": {
     "first_seen": "2026-11-06T17:56:42.145355+00:00",
     "link": "https://piqmarkets.com/story/ukraine-antitrust-regulator-approves-uber-s-takeover-of-delivery-hero",
@@ -544,10 +544,10 @@
     "link": "https://piqmarkets.com/story/uk-culture-secretary-orders-review-of-sky-s-1-6bn-itv-deal",
     "title": "UK culture secretary orders review of Sky's £1.6bn ITV deal"
   },
-  "3b9842a4fa4debde0ea6da9ca8afa75c2e2026ce65a4426848d2176d9f0800d3": {
-    "first_seen": "2026-10-27T16:36:35.949881+00:00",
-    "link": "https://piqmarkets.com/story/virgin-atlantic-fury-as-heathrow-forces-delta-terminal-move",
-    "title": "Virgin Atlantic fury as Heathrow forces Delta terminal move"
+  "3d148884145eb557b341c08d71909955d29c1b27bed74f801d79c7d44fbe8d97": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/japan-tobacco-says-all-jt-group-entities-in-russia-are-under-temporary-administration",
+    "title": "Japan Tobacco says all JT Group entities in Russia are under temporary administration"
   },
   "3ef907e8b3cd600877346f544fb91cf3b5a559031843bcb9bf7f8ca9b1a3315e": {
     "first_seen": "2026-10-29T20:16:13.839707+00:00",
@@ -593,11 +593,6 @@
     "first_seen": "2026-11-05T15:27:09.088143+00:00",
     "link": "https://piqmarkets.com/story/tripadvisor-ceo-matt-goldberg-to-step-down-leave-board",
     "title": "Tripadvisor CEO Matt Goldberg to step down, leave board"
-  },
-  "41ebf6647388e4db2ef2720fec28d36a2e8c062d8b87d02ba887e0f27252e6bd": {
-    "first_seen": "2026-10-27T16:36:35.949881+00:00",
-    "link": "https://piqmarkets.com/story/uk-emergency-advice-spurs-surge-in-sales-of-tinned-food-and-bottled-water",
-    "title": "UK emergency advice spurs surge in sales of tinned food and bottled water"
   },
   "42b89f428b60b00ae7859c222178907157b908a7ef2cc7a76801ed9a0469eb0d": {
     "first_seen": "2026-11-05T21:58:27.437657+00:00",
@@ -708,6 +703,11 @@
     "first_seen": "2026-10-28T21:01:30.633930+00:00",
     "link": "https://piqmarkets.com/story/ofwat-awards-ey-15m-contract-to-monitor-thames-water",
     "title": "Ofwat awards EY £15m contract to monitor Thames Water"
+  },
+  "576a0a3e5d29e4aeb5e0cae20427201c310988bb71370b02aae8433e1a6245e2": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/south-korea-ftc-to-fine-baemin-331-1-bln-won-coupang-300-8-bln-won",
+    "title": "South Korea FTC to fine Baemin 331.1 bln won, Coupang 300.8 bln won"
   },
   "5770e047b36fcb605433d6a6a32ed18d2c1c76c2d4444cc41d84bd47cc1ae0cf": {
     "first_seen": "2026-11-05T21:58:27.437657+00:00",
@@ -939,6 +939,11 @@
     "link": "https://piqmarkets.com/story/kyiv-independent-launches-2026-holiday-gift-guide",
     "title": "Kyiv Independent launches 2026 Holiday Gift Guide"
   },
+  "76adb75a915dea63d9f1a5344a903ea6c87ac91cde7f8e8697d2924b1454137f": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/deutsche-bank-builds-sports-finance-unit-led-by-arjun-nagarkatti",
+    "title": "Deutsche Bank builds sports finance unit led by Arjun Nagarkatti"
+  },
   "7704b80f4802c5250fafe9932467cc79728e382457700d0615beef88ac3cbd4b": {
     "first_seen": "2026-10-28T15:59:28.220208+00:00",
     "link": "https://piqmarkets.com/story/trump-backed-firehawk-defense-valued-at-1-4-billion-in-new-funding-round",
@@ -1119,6 +1124,11 @@
     "link": "https://piqmarkets.com/story/south-korean-envoy-vows-support-for-hyundai-s-alabama-plant-investment",
     "title": "South Korean envoy vows support for Hyundai's Alabama plant investment"
   },
+  "88ef9ac67d19a56615c190e5244625f0805a749396787c654fe2f1806ba471f7": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/oxford-street-pedestrianisation-lifts-first-week-footfall-16-city-hall-says",
+    "title": "Oxford Street pedestrianisation lifts first-week footfall 16%, City Hall says"
+  },
   "8c07cf2c3dbae5d0d370a983cf3b8e24969ee4ea35fe0833564dabfd4965d0fb": {
     "first_seen": "2026-10-28T01:19:06.884575+00:00",
     "link": "https://piqmarkets.com/story/cheesecake-factory-posts-earnings-beat-amid-political-spat",
@@ -1178,11 +1188,6 @@
     "first_seen": "2026-10-30T14:06:19.602579+00:00",
     "link": "https://piqmarkets.com/story/ousted-correspondent-says-cbs-news-overhaul-hurts-to-watch",
     "title": "Ousted correspondent says CBS News overhaul 'hurts to watch'"
-  },
-  "905b7ff5661c979159733767d4eb97e5e7dd6a2dc3b48a91b6e6fd74de1f95b1": {
-    "first_seen": "2026-10-27T21:17:22.077183+00:00",
-    "link": "https://piqmarkets.com/story/hanwha-defense-usa-to-take-control-of-philly-shipyard",
-    "title": "Hanwha Defense USA to take control of Philly Shipyard"
   },
   "9088c3fd45565400270c0fe951e01e9198f264e75525f70194e8ccf885bae14d": {
     "first_seen": "2026-11-06T10:49:59.376016+00:00",
@@ -1334,6 +1339,11 @@
     "link": "https://piqmarkets.com/story/uniqlo-shifts-china-strategy-to-focus-on-store-profitability",
     "title": "Uniqlo shifts China strategy to focus on store profitability"
   },
+  "a7f29872b44b2fe84c3d8aa9ed67ba9ebcc828dd5046a821446c341cd5eb0757": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/national-australia-bank-names-ian-saines-as-chair-elect",
+    "title": "National Australia Bank names Ian Saines as chair-elect"
+  },
   "a8696b7e2ffdddefe103ba9ed2c0d9873f8447ccbc61f086660f0c9ac31a66ae": {
     "first_seen": "2026-11-02T23:29:18.027214+00:00",
     "link": "https://piqmarkets.com/story/meta-weighed-raising-at-least-20-billion-in-potential-bond-sale-report-said",
@@ -1348,11 +1358,6 @@
     "first_seen": "2026-11-04T01:19:38.541020+00:00",
     "link": "https://piqmarkets.com/story/temu-and-jd-com-rework-supply-chains-as-de-minimis-tariff-reliefs-narrow",
     "title": "Temu and JD.com rework supply chains as de minimis tariff reliefs narrow"
-  },
-  "a8fe6a70a5ec28782298d67296809b62ccfde6493ae048f530c95a0cc88bc6f5": {
-    "first_seen": "2026-10-27T21:17:22.077183+00:00",
-    "link": "https://piqmarkets.com/story/budge-huskey-steps-down-as-premier-sotheby-s-ceo-transitions-to-executive-chairman",
-    "title": "Budge Huskey steps down as Premier Sotheby's CEO, transitions to executive chairman"
   },
   "a904017f12822dc08ba51088c6306aeb4ff0f46af9c52233a472c1069bde8908": {
     "first_seen": "2026-11-07T20:51:58.319691+00:00",
@@ -1504,11 +1509,6 @@
     "link": "https://piqmarkets.com/story/nexperia-s-dutch-entity-seeks-2-billion-from-wingtech-in-amsterdam-claim",
     "title": "Nexperia's Dutch entity seeks $2 billion from Wingtech in Amsterdam claim"
   },
-  "b6ed095fdb61315b0e14e498e486059e62d50889ab3f7ac32480c1dbfcbcba19": {
-    "first_seen": "2026-10-27T21:17:22.077183+00:00",
-    "link": "https://piqmarkets.com/story/trafigura-mubadala-cancel-sale-of-brazilian-iron-port",
-    "title": "Trafigura, Mubadala Cancel Sale of Brazilian Iron Port"
-  },
   "b707a635bf2fe57bc9d42d02235035ff0958bfd2112b1795d6b3055222f7f77d": {
     "first_seen": "2026-10-31T17:42:38.177952+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-wine-and-dine-festival-vendors-see-sales-boost-from-halloween",
@@ -1598,6 +1598,11 @@
     "first_seen": "2026-11-05T06:42:25.808579+00:00",
     "link": "https://piqmarkets.com/story/cvs-to-split-in-two-separating-pharmacies-from-aetna-and-pbm",
     "title": "CVS to split in two, separating pharmacies from Aetna and PBM"
+  },
+  "c9d63db45087d862f14c209c883b06cdaf045006849f8174ef33bf3cddbd721e": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/south-korea-s-jtbc-opens-bidding-for-sale-targets-january-preferred-bidder",
+    "title": "South Korea's JTBC opens bidding for sale, targets January preferred bidder"
   },
   "ca5a9c58d27ae8932db2a4e2e6937e1dcb16ca6e32301b17e6c337c0c545adbc": {
     "first_seen": "2026-11-05T15:27:09.088143+00:00",
@@ -1694,11 +1699,6 @@
     "link": "https://piqmarkets.com/story/doordash-to-acquire-instacart-for-17-billion",
     "title": "DoorDash to acquire Instacart for $17 billion"
   },
-  "d64e600d43a10237de2ff84afc121b86cb957a631138fc2a598f0e4b8c8bab36": {
-    "first_seen": "2026-10-27T21:17:22.077183+00:00",
-    "link": "https://piqmarkets.com/story/ex-jefferies-manager-can-sue-firm-for-legal-costs-court-rules",
-    "title": "Ex-Jefferies Manager Can Sue Firm for Legal Costs, Court Rules"
-  },
   "d674361eb52552faa0108c0f2bbbbbe8fb0ad57ec483da435c5dc714e766dcf1": {
     "first_seen": "2026-10-28T01:19:06.884575+00:00",
     "link": "https://piqmarkets.com/story/guidewire-buys-ai-underwriting-firm-hyperexponential-for-1-7-billion",
@@ -1748,11 +1748,6 @@
     "first_seen": "2026-10-30T14:06:19.602579+00:00",
     "link": "https://piqmarkets.com/story/hong-kong-to-host-vinexpo-asia-exclusively-for-five-years-from-2027",
     "title": "Hong Kong to host Vinexpo Asia exclusively for five years from 2027"
-  },
-  "dcdabab5891a9306a2585f84de4ed1be1d168bfc40a200fbf5be9ca62d8a0db8": {
-    "first_seen": "2026-10-27T21:17:22.077183+00:00",
-    "link": "https://piqmarkets.com/story/gm-plans-hybrid-suvs-in-strategic-pivot-from-evs",
-    "title": "GM plans hybrid SUVs in strategic pivot from EVs"
   },
   "dd4c613cc7d4a0f3475a030b2adfcf57fcc5132fc05254afcf33afac1d3dbd9e": {
     "first_seen": "2026-11-06T17:56:42.145355+00:00",
@@ -1983,6 +1978,11 @@
     "first_seen": "2026-11-03T20:58:02.502060+00:00",
     "link": "https://piqmarkets.com/story/skydance-names-distribution-leaders-as-eight-executives-exit",
     "title": "Skydance names distribution leaders as eight executives exit"
+  },
+  "feea61fe4e5b6df222732b57951b5e7bcc8bc6a16b235678a8ca510271c985ed": {
+    "first_seen": "2026-11-09T06:21:43.361890+00:00",
+    "link": "https://piqmarkets.com/story/hanwha-aerospace-plans-two-ship-based-chunmoo-missile-tests-off-u-s-coast",
+    "title": "Hanwha Aerospace plans two ship-based Chunmoo missile tests off U.S. coast"
   },
   "ff10042f40f0225e455e2688fd5a2ea2fa729a8775fa71f3846018c99dec261f": {
     "first_seen": "2026-10-29T14:15:28.332117+00:00",
