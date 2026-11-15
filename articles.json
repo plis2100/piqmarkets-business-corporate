@@ -39,11 +39,6 @@
     "link": "https://piqmarkets.com/story/ss-united-states-begins-deliberate-sinking-off-florida-as-artificial-reef",
     "title": "SS United States begins deliberate sinking off Florida as artificial reef"
   },
-  "05ea6d1b7b771add6cf32c806fd5497c525e0f723673928748a0ac46d1f15260": {
-    "first_seen": "2026-11-04T01:19:38.541020+00:00",
-    "link": "https://piqmarkets.com/story/tesla-misled-south-korean-buyers-on-automated-driving-software-consumer-group-alleged",
-    "title": "Tesla misled South Korean buyers on automated-driving software, consumer group alleged"
-  },
   "05f68fbe777afcff1552f9a2a672a43857c79b2a8859140d8d01694f34ff976a": {
     "first_seen": "2026-11-11T14:28:12.434963+00:00",
     "link": "https://piqmarkets.com/story/nats-chief-martin-rolfe-says-he-will-not-quit-after-september-flight-chaos",
@@ -213,6 +208,11 @@
     "first_seen": "2026-11-13T16:19:26.605603+00:00",
     "link": "https://piqmarkets.com/story/bmw-recalls-720-796-vehicles-over-parked-fire-risk-nhtsa-says",
     "title": "BMW recalls 720,796 vehicles over parked fire risk, NHTSA says"
+  },
+  "1ac4d95c5aaa1c59df35e3eedea4d8c90d1799e3e92e143333d03414706353ac": {
+    "first_seen": "2026-11-15T01:53:01.404263+00:00",
+    "link": "https://piqmarkets.com/story/nvidia-ceo-jensen-huang-leaves-company-over-relationship-questions",
+    "title": "Nvidia CEO Jensen Huang leaves company over relationship questions"
   },
   "1ad5ef46b1198ffca36041563cf0b8a3a65115f457b3d6994f5e9d53b23002c5": {
     "first_seen": "2026-11-06T10:49:59.376016+00:00",
@@ -1104,6 +1104,16 @@
     "link": "https://piqmarkets.com/story/oxford-street-pedestrianisation-lifts-first-week-footfall-16-city-hall-says",
     "title": "Oxford Street pedestrianisation lifts first-week footfall 16%, City Hall says"
   },
+  "8a22b54bc2f4cf96e7d30481831a8f17d470819ce34a9388ff506b1c89f613b4": {
+    "first_seen": "2026-11-15T01:53:01.404263+00:00",
+    "link": "https://piqmarkets.com/story/faa-halts-us-departures-for-over-four-hours-after-network-failure",
+    "title": "FAA halts US departures for over four hours after network failure"
+  },
+  "8be7b07958970d26d126aa910247dd18628d54926a80cfa69d88cc7da45de5a6": {
+    "first_seen": "2026-11-15T01:53:01.404263+00:00",
+    "link": "https://piqmarkets.com/story/new-orleans-port-sues-tanker-owners-for-over-1m-after-cruise-ship-collision",
+    "title": "New Orleans port sues tanker owners for over $1m after cruise ship collision"
+  },
   "8bf45e2b0cef37e1df30bb3852b1da876d1d44d198ad6961cd4624c26d0a8147": {
     "first_seen": "2026-11-13T00:19:37.989608+00:00",
     "link": "https://piqmarkets.com/story/nvidia-ceo-jensen-huang-out-cfo-colette-kress-named-interim-ceo",
@@ -1434,6 +1444,11 @@
     "link": "https://piqmarkets.com/story/mars-plans-1-4-billion-us-manufacturing-investment-in-2027",
     "title": "Mars plans $1.4 billion US manufacturing investment in 2027"
   },
+  "afeff8af276a1b305ae06d5be5baf7cb84ecd6c9b16daa8e80d69735e3890134": {
+    "first_seen": "2026-11-15T01:53:01.404263+00:00",
+    "link": "https://piqmarkets.com/story/subaru-retools-boxer-engine-for-fuel-economy-targets-50-thermal-efficiency",
+    "title": "Subaru retools boxer engine for fuel economy, targets 50% thermal efficiency"
+  },
   "b1123ec0afc858da3519d7f01a3b883781ff2a09ac96e4e42d56698d00458ea2": {
     "first_seen": "2026-11-04T17:13:39.136098+00:00",
     "link": "https://piqmarkets.com/story/toyota-supplier-tokai-kogyo-buys-nissan-linked-kinugawa-rubber",
@@ -1604,11 +1619,6 @@
     "link": "https://piqmarkets.com/story/citigroup-banking-chair-falco-to-retire-macfarlanes-hires-kirkland-partner",
     "title": "Citigroup banking chair Falco to retire, Macfarlanes hires Kirkland partner"
   },
-  "c8d5367f6dd37d84d322cb5279d0e72451a98b66751ca513b2f037afabf36f48": {
-    "first_seen": "2026-11-04T09:08:38.893619+00:00",
-    "link": "https://piqmarkets.com/story/smith-nephew-cuts-outlook-and-confirms-ended-j-j-orthopaedics-merger-talks",
-    "title": "Smith+Nephew cuts outlook and confirms ended J&J orthopaedics merger talks"
-  },
   "c915d309411951e1e631dc892c1c5fa58b291748aa5115a991b27ca34c77f6c6": {
     "first_seen": "2026-11-05T06:42:25.808579+00:00",
     "link": "https://piqmarkets.com/story/cvs-to-split-in-two-separating-pharmacies-from-aetna-and-pbm",
@@ -1719,20 +1729,10 @@
     "link": "https://piqmarkets.com/story/musk-backs-petition-to-reinstate-jensen-huang-as-nvidia-ceo",
     "title": "Musk backs petition to reinstate Jensen Huang as Nvidia CEO"
   },
-  "d2871591cb81535695b6a992c050c5f9767f31cbee9768caf5e39764b43b66e4": {
-    "first_seen": "2026-11-04T09:08:38.893619+00:00",
-    "link": "https://piqmarkets.com/story/air-traffic-controller-shortage-drives-cross-border-hiring-officials-say",
-    "title": "Air traffic controller shortage drives cross-border hiring, officials say"
-  },
   "d406e554daf7b617a08bc7686f54c3a99c77b03ab7b01692b4331aff40948621": {
     "first_seen": "2026-11-11T21:55:42.091759+00:00",
     "link": "https://piqmarkets.com/story/pfizer-secures-up-to-1-5-billion-from-blackstone-for-obesity-drug",
     "title": "Pfizer secures up to $1.5 billion from Blackstone for obesity drug"
-  },
-  "d47422cc600ba19a02c1223f909c82deb8ee7f78ed02e9726b3156803c7fa092": {
-    "first_seen": "2026-11-04T09:08:38.893619+00:00",
-    "link": "https://piqmarkets.com/story/lazard-completes-campbell-lutyens-takeover-and-launches-lazard-cl-unit",
-    "title": "Lazard completes Campbell Lutyens takeover and launches Lazard CL unit"
   },
   "d5235b1707f671c9f37da73ce2827b7288a7f31f944bb651c8802f9c2f250427": {
     "first_seen": "2026-11-12T18:53:39.997283+00:00",
@@ -1798,6 +1798,11 @@
     "first_seen": "2026-11-11T14:28:12.434963+00:00",
     "link": "https://piqmarkets.com/story/byd-apologizes-for-reversed-wheel-rims-on-tang-suvs-in-china",
     "title": "BYD apologizes for reversed wheel rims on Tang SUVs in China"
+  },
+  "df296f25d19f04b4718a1e59e25a0a7adb173ae75d7627002a07bb1f2c20652e": {
+    "first_seen": "2026-11-15T01:53:01.404263+00:00",
+    "link": "https://piqmarkets.com/story/family-dollar-to-pay-63-million-to-settle-ftc-overcharging-claims",
+    "title": "Family Dollar to pay $63 million to settle FTC overcharging claims"
   },
   "e0ade845a66abf7f4b61229e2c201406905160eb14e9e3af7fe5136870bb5988": {
     "first_seen": "2026-11-13T00:19:37.989608+00:00",
@@ -1978,11 +1983,6 @@
     "first_seen": "2026-11-06T17:56:42.145355+00:00",
     "link": "https://piqmarkets.com/story/sallie-mae-navient-graduate-lending-more-than-doubles-after-plus-overhaul",
     "title": "Sallie Mae, Navient graduate lending more than doubles after PLUS overhaul"
-  },
-  "fcd0fc93ad42dad6bf3c8215622449dca21199923eae1256c20ba8342a45c9cd": {
-    "first_seen": "2026-11-04T09:08:38.893619+00:00",
-    "link": "https://piqmarkets.com/story/mitsui-chemicals-weighed-jsr-deal-worth-over-8-2-billion",
-    "title": "Mitsui Chemicals weighed JSR deal worth over $8.2 billion"
   },
   "fd5f116b85bb0a6ed34055f9e31b20a301ebf887f71a9e10475c6f2cb3f36c89": {
     "first_seen": "2026-11-10T09:45:54.119065+00:00",
