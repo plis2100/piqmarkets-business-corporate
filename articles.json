@@ -159,11 +159,6 @@
     "link": "https://piqmarkets.com/story/bomb-threat-diverts-dublin-rome-airbus-a320-to-french-airbase",
     "title": "Bomb threat diverts Dublin-Rome Airbus A320 to French airbase"
   },
-  "0fb3e909c4f790fbdea6ea0d977d5e348be743ba0ca453119bd7c0cb65da1ca8": {
-    "first_seen": "2026-11-04T09:08:38.893619+00:00",
-    "link": "https://piqmarkets.com/story/law-firms-review-star-culture-risks-after-weil-collapse",
-    "title": "Law firms review star culture risks after Weil collapse"
-  },
   "0fe6b4b14e91a95ce77de6e9639ced27249af0bdea2ca261edfce89959d8f5b5": {
     "first_seen": "2026-11-11T14:28:12.434963+00:00",
     "link": "https://piqmarkets.com/story/capri-nominates-justin-boxford-ceo-succeeding-john-idol",
@@ -839,6 +834,11 @@
     "link": "https://piqmarkets.com/story/goldman-sachs-names-109-partners-its-largest-class-since-2010",
     "title": "Goldman Sachs names 109 partners, its largest class since 2010"
   },
+  "66665f7003a1ba21a849f7090d8f0f42e2312e6d0a4274fb73bc32aeabe3f707": {
+    "first_seen": "2026-11-15T21:46:58.031727+00:00",
+    "link": "https://piqmarkets.com/story/diamondback-nears-5-billion-double-eagle-v-purchase-ft-reports",
+    "title": "Diamondback nears $5 billion Double Eagle V purchase, FT reports"
+  },
   "67a8c2d6cb536180a188359915f010e9ec34de27b675ed2b18b6f6f4cb25e4c1": {
     "first_seen": "2026-11-10T17:48:29.478887+00:00",
     "link": "https://piqmarkets.com/story/post-office-agrees-accenture-handover-to-end-fujitsu-horizon-contract",
@@ -1254,6 +1254,11 @@
     "link": "https://piqmarkets.com/story/victoria-inquiry-hears-contractor-warned-over-cfmeu-dispute-on-rail-project",
     "title": "Victoria inquiry hears contractor warned over CFMEU dispute on rail project"
   },
+  "9e56d86ee5a99609ca2821db40c65660de6d9ff120572c37773566d6e271cc81": {
+    "first_seen": "2026-11-15T21:46:58.031727+00:00",
+    "link": "https://piqmarkets.com/story/ula-vulcan-rocket-fails-after-launch-destroying-40-amazon-satellites",
+    "title": "ULA Vulcan rocket fails after launch, destroying 40 Amazon satellites"
+  },
   "9e70da5482cdfdb9406e6ad1d097f6d4a83a1f49efa9f7f58d68afadbab9edbd": {
     "first_seen": "2026-11-15T09:21:29.310739+00:00",
     "link": "https://piqmarkets.com/story/hd-hyundai-launches-600-ton-autonomous-vessel-built-with-anduril",
@@ -1419,11 +1424,6 @@
     "link": "https://piqmarkets.com/story/boeing-to-cut-5-of-commercial-airplane-workforce-seattle-times-reports",
     "title": "Boeing to cut 5% of commercial airplane workforce, Seattle Times reports"
   },
-  "af5cb8bcaeb71e30c41853d83202ce2ceb822ca4e3f4c8e1f3064d078e9d1634": {
-    "first_seen": "2026-11-04T17:13:39.136098+00:00",
-    "link": "https://piqmarkets.com/story/oxford-street-retailers-report-19-rise-in-transactions-after-car-free-switch",
-    "title": "Oxford Street retailers report 19% rise in transactions after car-free switch"
-  },
   "afa5d091bc8ae0a8e43c0162dd3d696333e6092327f91b39e931651260e2a1f6": {
     "first_seen": "2026-11-13T07:54:41.834996+00:00",
     "link": "https://piqmarkets.com/story/familymart-expands-convenience-wear-as-socks-pass-40-million-pairs",
@@ -1439,20 +1439,10 @@
     "link": "https://piqmarkets.com/story/subaru-retools-boxer-engine-for-fuel-economy-targets-50-thermal-efficiency",
     "title": "Subaru retools boxer engine for fuel economy, targets 50% thermal efficiency"
   },
-  "b1123ec0afc858da3519d7f01a3b883781ff2a09ac96e4e42d56698d00458ea2": {
-    "first_seen": "2026-11-04T17:13:39.136098+00:00",
-    "link": "https://piqmarkets.com/story/toyota-supplier-tokai-kogyo-buys-nissan-linked-kinugawa-rubber",
-    "title": "Toyota supplier Tokai Kogyo buys Nissan-linked Kinugawa Rubber"
-  },
   "b23fafc56a95b37ba516ae7985401b6d50e545a8dd3b07f922ff69f82bc5199a": {
     "first_seen": "2026-11-13T16:19:26.605603+00:00",
     "link": "https://piqmarkets.com/story/future-plc-weighs-sale-of-business-arm-sky-news-reports",
     "title": "Future Plc weighs sale of business arm, Sky News reports"
-  },
-  "b28bc6f0f9a97b3a819d4cfec8d1818bfe732e368a63fad63eb515f9de093ec8": {
-    "first_seen": "2026-11-04T17:13:39.136098+00:00",
-    "link": "https://piqmarkets.com/story/mufg-and-smbc-to-renew-3-8bn-credit-lines-for-nidec",
-    "title": "MUFG and SMBC to renew $3.8bn credit lines for Nidec"
   },
   "b3b35f3363bd89859a91335770a937c09d4a607503cf667fb354a63449bd4ad5": {
     "first_seen": "2026-11-13T16:19:26.605603+00:00",
@@ -1639,6 +1629,16 @@
     "link": "https://piqmarkets.com/story/compass-files-15-lawsuits-against-mlss-over-office-exclusive-rules",
     "title": "Compass files 15 lawsuits against MLSs over office exclusive rules"
   },
+  "cc10a49c2a217aee47e023fc3f04f94f3818f2bd3de1b7167766be7aa314a1bc": {
+    "first_seen": "2026-11-15T21:46:58.031727+00:00",
+    "link": "https://piqmarkets.com/story/us-flight-cancellations-continue-two-days-after-national-ground-stop",
+    "title": "US flight cancellations continue two days after national ground stop"
+  },
+  "cce65926377f9724fbd2191daa00fd4f4a8804e1733624dbfe5832c5b790cb09": {
+    "first_seen": "2026-11-15T21:46:58.031727+00:00",
+    "link": "https://piqmarkets.com/story/flaming-hydra-launches-kickstarter-for-library-e-book-ownership-project",
+    "title": "Flaming Hydra launches Kickstarter for library e-book ownership project"
+  },
   "cd2823cf3e074f40d1082b0dcce7d94752a8c8ec17fc3ccae2f25fda57f1ea4c": {
     "first_seen": "2026-11-11T14:28:12.434963+00:00",
     "link": "https://piqmarkets.com/story/virgin-atlantic-and-delta-criticize-heathrow-s-2028-terminal-move",
@@ -1653,11 +1653,6 @@
     "first_seen": "2026-11-10T17:48:29.478887+00:00",
     "link": "https://piqmarkets.com/story/polestar-debuts-formula-2030-concept-previewing-next-polestar-2-nose",
     "title": "Polestar debuts Formula 2030 concept previewing next Polestar 2 nose"
-  },
-  "cf0be0f2bd8187fa7d267cfc4d26ac1712e9639d598623cbcac4485a95017890": {
-    "first_seen": "2026-11-04T17:13:39.136098+00:00",
-    "link": "https://piqmarkets.com/story/japan-trading-houses-warn-of-uncertainty-after-us-midterms",
-    "title": "Japan trading houses warn of uncertainty after US midterms"
   },
   "cf279b4c4065adeae7998375e32e876156465cb65fedc060087ee580aa31cb21": {
     "first_seen": "2026-11-10T01:29:54.660140+00:00",
@@ -1903,6 +1898,11 @@
     "first_seen": "2026-11-05T15:27:09.088143+00:00",
     "link": "https://piqmarkets.com/story/amazon-names-uber-eats-prime-restaurant-partner-ending-grubhub-deal",
     "title": "Amazon names Uber Eats Prime restaurant partner, ending Grubhub deal"
+  },
+  "f50ddc3bd3c36c5085b3083e9e7eae1b08b03cd97efeef7d9c29e900b390ce66": {
+    "first_seen": "2026-11-15T21:46:58.031727+00:00",
+    "link": "https://piqmarkets.com/story/pony-ai-cfo-says-chinese-self-driving-firms-have-a-chip-plan-b",
+    "title": "Pony.ai CFO says Chinese self-driving firms have a chip Plan B"
   },
   "f557199ea5dd9d3addeee19743ed11dea7c7a1a39a0aca12a4a2f4deae51bdb1": {
     "first_seen": "2026-11-10T23:17:19.106178+00:00",
