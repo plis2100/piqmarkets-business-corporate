@@ -34,11 +34,6 @@
     "link": "https://piqmarkets.com/story/plural-raises-1b-1-1b-for-european-early-stage-and-follow-on-funds",
     "title": "Plural raises €1B ($1.1B) for European early-stage and follow-on funds"
   },
-  "034e8c1d8bd964bfb3b0d771673c1ada619d5e250e0b99be7cf523ba0d84c166": {
-    "first_seen": "2026-11-14T21:27:35.638613+00:00",
-    "link": "https://piqmarkets.com/story/kalshi-seeks-gta-vi-researcher-for-100-000-to-120-000-livestream-role",
-    "title": "Kalshi seeks GTA VI researcher for $100,000 to $120,000 livestream role"
-  },
   "03885004537b1ec56da7ebe1e525a5e3ef34f33df9dabae158ff502bd2bdbded": {
     "first_seen": "2026-11-21T02:11:51.339179+00:00",
     "link": "https://piqmarkets.com/story/hongqi-s-1-45-million-s9-supercar-plan-drew-fraud-and-laundering-investigations",
@@ -48,6 +43,11 @@
     "first_seen": "2026-11-19T13:00:09.692016+00:00",
     "link": "https://piqmarkets.com/story/banks-warn-customers-they-may-be-liable-for-ai-agent-errors",
     "title": "Banks warn customers they may be liable for AI agent errors"
+  },
+  "048b58e8a6493aee795a3b470117620908c862aa49105651a6a2642c2dc82d22": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/maple-raises-5-3m-seed-to-build-ai-agents-that-cannot-read-user-data",
+    "title": "Maple raises $5.3M seed to build AI agents that cannot read user data"
   },
   "04ece02d90f2174f9683d1d3ff6e7abe870b4c5c4a9db3a8c606828d99d317d5": {
     "first_seen": "2026-11-17T13:21:20.500310+00:00",
@@ -103,6 +103,11 @@
     "first_seen": "2026-11-20T20:13:18.389390+00:00",
     "link": "https://piqmarkets.com/story/ford-honda-stellantis-and-vw-sue-new-jersey-over-repair-law",
     "title": "Ford, Honda, Stellantis and VW sue New Jersey over repair law"
+  },
+  "0e0b23113eccd2f960d4e599ebe94d0b2cfa0d030fa1f0c4ff91a0a590448050": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/south-korea-consumer-goods-exports-hit-record-28-65b",
+    "title": "South Korea consumer goods exports hit record $28.65B"
   },
   "0e8833b5fb00952980d096b4827a4b7051df39fa150b0d946b70267fb4906d2a": {
     "first_seen": "2026-11-23T22:37:46.904838+00:00",
@@ -174,11 +179,6 @@
     "link": "https://piqmarkets.com/story/british-airways-boeing-787-veers-off-heathrow-taxiway-no-injuries",
     "title": "British Airways Boeing 787 veers off Heathrow taxiway, no injuries"
   },
-  "1ac4d95c5aaa1c59df35e3eedea4d8c90d1799e3e92e143333d03414706353ac": {
-    "first_seen": "2026-11-15T01:53:01.404263+00:00",
-    "link": "https://piqmarkets.com/story/nvidia-ceo-jensen-huang-leaves-company-over-relationship-questions",
-    "title": "Nvidia CEO Jensen Huang leaves company over relationship questions"
-  },
   "1ac9253929571cf34f20b1c4d56cdd81f6fc18095fb7ede685e83f26dd49de73": {
     "first_seen": "2026-11-23T10:44:01.703184+00:00",
     "link": "https://piqmarkets.com/story/capita-ceo-adolfo-hernandez-exits-as-shares-fall-67-on-pension-costs",
@@ -188,11 +188,6 @@
     "first_seen": "2026-11-23T10:44:01.703184+00:00",
     "link": "https://piqmarkets.com/story/wildberries-owner-tatyana-kim-resigns-after-first-eu-sanctions-listing",
     "title": "Wildberries owner Tatyana Kim resigns after first EU sanctions listing"
-  },
-  "1ba08f977ec69aa22d21a04b45b0b69091ec2a43f35e770ef31469a13ae30978": {
-    "first_seen": "2026-11-14T17:04:52.108762+00:00",
-    "link": "https://piqmarkets.com/story/itv-documentary-alleges-unlawful-placement-of-torture-survivors-at-sussex-asylum-camp",
-    "title": "ITV documentary alleges unlawful placement of torture survivors at Sussex asylum camp"
   },
   "1cdbae152c052afb72659d51cb3de8de7396a4cf364a61308147b214379f42ef": {
     "first_seen": "2026-11-20T20:13:18.389390+00:00",
@@ -399,15 +394,35 @@
     "link": "https://piqmarkets.com/story/teva-reaches-agreement-in-principle-to-settle-states-generic-drug-price-fixing-case",
     "title": "Teva reaches agreement in principle to settle states' generic drug price-fixing case"
   },
+  "354ce2f820b6e06a9afce7f8b05cd7b75f4fc6ec05305bf2a1436375454c93e9": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/huawei-says-2025-patent-licensing-revenue-reached-800-million",
+    "title": "Huawei says 2025 patent licensing revenue reached $800 million"
+  },
   "354e3950f2443311d2fa8cf69c601be5d192b9b6c0fde9a3e1eb6c3cb5e668d7": {
     "first_seen": "2026-11-20T20:13:18.389390+00:00",
     "link": "https://piqmarkets.com/story/jaxa-to-hand-h3-rocket-launch-operations-to-mitsubishi-heavy",
     "title": "JAXA to hand H3 rocket launch operations to Mitsubishi Heavy"
   },
+  "35b5bde2be5e99ea70a01df2afba553fe557059d32d97d61163db6e8a1a3ca66": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/toshiba-and-hitachi-set-up-cyberdefense-units-for-critical-infrastructure",
+    "title": "Toshiba and Hitachi set up cyberdefense units for critical infrastructure"
+  },
   "363a4df3bfed2690f89a00d6a56017febedd6d43b0cd70328d434182458a2eb1": {
     "first_seen": "2026-11-19T03:23:34.108925+00:00",
     "link": "https://piqmarkets.com/story/nadella-says-microsoft-buyouts-aimed-at-ai-first-reorganization",
     "title": "Nadella says Microsoft buyouts aimed at AI-first reorganization"
+  },
+  "3a14eeee343f74ad5a4e37a5a70622a5b618d8df868222ca9a8816d22df9af1e": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/hdbank-plans-global-bond-sale-and-syndicated-loan-for-growth",
+    "title": "HDBank plans global bond sale and syndicated loan for growth"
+  },
+  "3afadfe9daa5e94b51e88948431828bd38dc49f84294d5e077efacea795e38a0": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/wonder-drops-grubhub-sale-after-amazon-walmart-talks",
+    "title": "Wonder drops Grubhub sale after Amazon, Walmart talks"
   },
   "3b35c235a92092919c59b311d687f37fd10db666387590416ff68a9cc345f97d": {
     "first_seen": "2026-11-22T12:33:04.746807+00:00",
@@ -468,11 +483,6 @@
     "first_seen": "2026-11-16T20:26:36.194121+00:00",
     "link": "https://piqmarkets.com/story/japan-s-pigeon-to-buy-us-peer-eleeo-brands-in-381m-deal",
     "title": "Japan's Pigeon to buy US peer Eleeo Brands in $381M deal"
-  },
-  "41ae12d5f70f5247ac754d32873121e2d4e25e2f9bed050297680d3670344414": {
-    "first_seen": "2026-11-15T09:21:29.310739+00:00",
-    "link": "https://piqmarkets.com/story/gymshark-trademark-bid-draws-opposition-from-small-fairford-gym",
-    "title": "Gymshark trademark bid draws opposition from small Fairford gym"
   },
   "424ed4e22528e9a47eb3bd3f827f96858bfb2d7391d9bbfe5bcf36500569af60": {
     "first_seen": "2026-11-18T21:54:33.702663+00:00",
@@ -539,10 +549,10 @@
     "link": "https://piqmarkets.com/story/real-remax-group-confirms-further-layoffs-after-real-brokerage-remax-merger",
     "title": "Real REMAX Group confirms further layoffs after Real Brokerage-REMAX merger"
   },
-  "4c7b7f9d44032a88f86252a4a89b04805c80527e2726fdbe1201fb3f45db6055": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/copa-737-wingtip-strikes-ups-767-nose-on-miami-taxiway",
-    "title": "Copa 737 wingtip strikes UPS 767 nose on Miami taxiway"
+  "4ae14e69cca830b6c8cd93c8b64dfc0c74f75deea005f5f3ea430821d77de18a": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/xpeng-signs-1-8-billion-yuan-zhaoqing-deal-for-battery-pack-line",
+    "title": "Xpeng signs 1.8 billion yuan Zhaoqing deal for battery pack line"
   },
   "4d18b06bfa8d60f1b376ac4531dc5629b2224b058e1cfa8e1e69cb8c7a43955d": {
     "first_seen": "2026-11-19T03:23:34.108925+00:00",
@@ -558,11 +568,6 @@
     "first_seen": "2026-11-18T13:55:33.520969+00:00",
     "link": "https://piqmarkets.com/story/yicura-biomed-ceo-says-hong-kong-biotech-needs-patient-capital",
     "title": "Yicura BioMed CEO says Hong Kong biotech needs patient capital"
-  },
-  "4e8f0c2c78e75dfa88ed5af70fafeaf6987f8761095e5437cd4e5786b6803de3": {
-    "first_seen": "2026-11-14T17:04:52.108762+00:00",
-    "link": "https://piqmarkets.com/story/reynolds-to-hold-further-talks-with-poundland-owners-amid-rescue-talks",
-    "title": "Reynolds to hold further talks with Poundland owners amid rescue talks"
   },
   "4eaac00976937028ea907ab00a7ec6491e4a48c902c3cf857a74b7e5a4b52d70": {
     "first_seen": "2026-11-17T03:50:29.218561+00:00",
@@ -599,11 +604,6 @@
     "link": "https://piqmarkets.com/story/wendy-s-sued-in-us-federal-court-over-menu-pricing",
     "title": "Wendy's sued in US federal court over menu pricing"
   },
-  "50b31f4852b69a747fe11414e811e0510949272afa66bbf7613a083aa41fa5ea": {
-    "first_seen": "2026-11-14T17:04:52.108762+00:00",
-    "link": "https://piqmarkets.com/story/rivian-spinoff-begins-delivering-3-500-to-4-500-tm-b-e-bikes",
-    "title": "Rivian spinoff begins delivering $3,500 to $4,500 TM-B e-bikes"
-  },
   "510eae6674474a8fad73de8e1a699fbea2c62ae10dd0fee784366a53428ecf1b": {
     "first_seen": "2026-11-19T03:23:34.108925+00:00",
     "link": "https://piqmarkets.com/story/tfl-says-about-265-000-oyster-photocard-accounts-may-be-compromised",
@@ -613,6 +613,11 @@
     "first_seen": "2026-11-19T03:23:34.108925+00:00",
     "link": "https://piqmarkets.com/story/uniqlo-owner-yanai-says-world-s-top-apparel-spot-is-a-waypoint",
     "title": "Uniqlo owner Yanai says world's top apparel spot is a waypoint"
+  },
+  "53ff4ac9e117b0958e622995ef4e6470b37c280a49ac4eb46ede3537584fc8a6": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/china-s-electric-truck-makers-push-exports-to-vietnam-port-operator",
+    "title": "China's electric truck makers push exports to Vietnam port operator"
   },
   "5456e25dc40c467ca3085e32c5c453c3707d21e360103ea09f7132e9b6c9854f": {
     "first_seen": "2026-11-19T21:29:56.377453+00:00",
@@ -628,6 +633,11 @@
     "first_seen": "2026-11-22T03:15:13.888154+00:00",
     "link": "https://piqmarkets.com/story/sanrio-pushes-into-video-games-to-reach-younger-fans-beyond-stores",
     "title": "Sanrio pushes into video games to reach younger fans beyond stores"
+  },
+  "552de22e32357dbe55b4b0aa970ad92725c4f158b868280a11f2a91f077eaa6f": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/german-private-equity-targets-japan-engine-parts-suppliers-as-ev-shift-slows",
+    "title": "German private equity targets Japan engine parts suppliers as EV shift slows"
   },
   "5566dc38589e3098fc93956860ca7ebb7e972bc8404e4d1152e0b666c31e619f": {
     "first_seen": "2026-11-22T20:19:45.799146+00:00",
@@ -673,6 +683,16 @@
     "first_seen": "2026-11-20T03:11:21.202764+00:00",
     "link": "https://piqmarkets.com/story/gta-6-sells-24-5-million-units-in-first-day-sensor-tower-estimates",
     "title": "GTA 6 sells 24.5 million units in first day, Sensor Tower estimates"
+  },
+  "5a3309a34195980eeee5b1aacd5d1ce87fcba9f5760c372910675bf0c3c92492": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/australian-court-approves-a2-milk-s-a-62-million-class-action-settlement",
+    "title": "Australian court approves a2 Milk's A$62 million class action settlement"
+  },
+  "5a50031294b3b4df89f7b9f3401c57bca105b06872d9cda0a1534d025765b753": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/citi-weighs-venezuela-banking-return-five-years-after-exit-bloomberg-reports",
+    "title": "Citi weighs Venezuela banking return five years after exit, Bloomberg reports"
   },
   "5a8bd24d2795e5db3c1e9020473da7dc6ef6cb617bfb040c7a25cc992bc7a43d": {
     "first_seen": "2026-11-17T13:21:20.500310+00:00",
@@ -794,6 +814,11 @@
     "link": "https://piqmarkets.com/story/aviation-groups-urge-congress-to-provide-at-least-30-billion-for-faa-modernization",
     "title": "Aviation groups urge Congress to provide at least $30 billion for FAA modernization"
   },
+  "68e97c44257a2ce25304e26a95e2cd698f894eb4a5c69f1b44417e79e45395be": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/walmart-partners-with-meta-to-sell-black-friday-deals-through-ai-agent-muse",
+    "title": "Walmart partners with Meta to sell Black Friday deals through AI agent Muse"
+  },
   "69674bc5f70d49d273a9215f5b370150ee63f980e85256b971b92dac44f5b261": {
     "first_seen": "2026-11-23T22:37:46.904838+00:00",
     "link": "https://piqmarkets.com/story/japan-s-development-bank-sets-up-company-to-fund-late-stage-drug-trials",
@@ -823,6 +848,11 @@
     "first_seen": "2026-11-24T18:52:56.074480+00:00",
     "link": "https://piqmarkets.com/story/brazil-police-ai-startup-pax-expands-pilots-to-three-more-regions",
     "title": "Brazil police AI startup Pax expands pilots to three more regions"
+  },
+  "6ea0cddd1f74b85950189e0759a503343c2604d42b801d2e517054a76ceef126": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/nvidia-ceo-jensen-huang-apologizes-to-staff-says-he-is-in-therapy",
+    "title": "Nvidia CEO Jensen Huang apologizes to staff, says he is in therapy"
   },
   "6ebe1ebdc3980efe9728649ddf1103cef7acbcaaad674cf4fd64896ca1c49874": {
     "first_seen": "2026-11-18T04:17:31.971103+00:00",
@@ -868,11 +898,6 @@
     "first_seen": "2026-11-19T13:00:09.692016+00:00",
     "link": "https://piqmarkets.com/story/investec-revenue-rises-6-7-as-south-africa-offsets-uk-slump",
     "title": "Investec revenue rises 6.7% as South Africa offsets UK slump"
-  },
-  "7b8c84def5e9d1174a45cad1a142d906eb8573a39bfafaaa636bc933fdc36b77": {
-    "first_seen": "2026-11-14T17:04:52.108762+00:00",
-    "link": "https://piqmarkets.com/story/bomb-found-at-biourja-renewables-ethanol-plant-in-peoria-illinois",
-    "title": "Bomb found at BioUrja Renewables ethanol plant in Peoria, Illinois"
   },
   "7c5d21affc7d8383e380dda2e1fddbb646d42d9ce142af3cff2f95649467d127": {
     "first_seen": "2026-11-24T18:52:56.074480+00:00",
@@ -1009,11 +1034,6 @@
     "link": "https://piqmarkets.com/story/tsa-forecasts-screening-17-6-million-air-travelers-over-thanksgiving",
     "title": "TSA forecasts screening 17.6 million air travelers over Thanksgiving"
   },
-  "8a22b54bc2f4cf96e7d30481831a8f17d470819ce34a9388ff506b1c89f613b4": {
-    "first_seen": "2026-11-15T01:53:01.404263+00:00",
-    "link": "https://piqmarkets.com/story/faa-halts-us-departures-for-over-four-hours-after-network-failure",
-    "title": "FAA halts US departures for over four hours after network failure"
-  },
   "8a8e22980faa28a4d53d14ba3d42ccc5fc0205d7da01bec6a81caf156c934801": {
     "first_seen": "2026-11-16T20:26:36.194121+00:00",
     "link": "https://piqmarkets.com/story/bank-of-america-hires-evercore-s-stapleton-to-lead-activism-defense",
@@ -1029,20 +1049,10 @@
     "link": "https://piqmarkets.com/story/unsiloed-ai-raises-7-5m-seed-round-led-by-felicis",
     "title": "Unsiloed AI raises $7.5M seed round led by Felicis"
   },
-  "8be7b07958970d26d126aa910247dd18628d54926a80cfa69d88cc7da45de5a6": {
-    "first_seen": "2026-11-15T01:53:01.404263+00:00",
-    "link": "https://piqmarkets.com/story/new-orleans-port-sues-tanker-owners-for-over-1m-after-cruise-ship-collision",
-    "title": "New Orleans port sues tanker owners for over $1m after cruise ship collision"
-  },
   "8c31ec8850de9f1ed7cfbd369ca1fa0822bd9decb3a75ce008349cf660d8f042": {
     "first_seen": "2026-11-18T21:54:33.702663+00:00",
     "link": "https://piqmarkets.com/story/orix-to-buy-recruit-s-study-sapuri-online-learning-business",
     "title": "Orix to buy Recruit's Study Sapuri online learning business"
-  },
-  "8c70543a6806290587e8baf0ea536dedf69b3cca665c3d74bd06b07e50c8395a": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/bangladesh-clothing-factories-shut-as-workers-strike-over-pay",
-    "title": "Bangladesh clothing factories shut as workers strike over pay"
   },
   "8d4316deb220f3ad504dba5e4b8ed45584a7c49433ffb7a09477dce0a166ddc8": {
     "first_seen": "2026-11-23T22:37:46.904838+00:00",
@@ -1064,10 +1074,20 @@
     "link": "https://piqmarkets.com/story/saudi-wealth-fund-holds-over-2-billion-take-two-stake-as-gta-vi-launches",
     "title": "Saudi wealth fund holds over $2 billion Take-Two stake as GTA VI launches"
   },
+  "9150b0170563080ef401c79ca05e1150c3b7a43cb44efa516e39efe0a6247d54": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/eu-court-to-rule-wednesday-on-commission-s-missed-cage-ban-deadline",
+    "title": "EU court to rule Wednesday on Commission's missed cage ban deadline"
+  },
   "91d6de098b7765b2070f31354bb9c3ec7cc98d451ba7fa600df11fea39fb3240": {
     "first_seen": "2026-11-17T03:50:29.218561+00:00",
     "link": "https://piqmarkets.com/story/us-prosecutors-close-case-against-huawei-in-new-york-criminal-trial",
     "title": "US prosecutors close case against Huawei in New York criminal trial"
+  },
+  "937f13a7bbea661ed79a4f3d2526b6616de31732b2b71ced3ad89386c1cd90a1": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/faa-lifts-o-hare-ground-stop-after-equipment-outage",
+    "title": "FAA lifts O'Hare ground stop after equipment outage"
   },
   "938119502533582159202f5b42ba71ee1f85e0abdafcc54f2d8df7d1cba7715a": {
     "first_seen": "2026-11-20T20:13:18.389390+00:00",
@@ -1098,11 +1118,6 @@
     "first_seen": "2026-11-20T20:13:18.389390+00:00",
     "link": "https://piqmarkets.com/story/hyundai-and-honda-show-us-hybrids-at-los-angeles-auto-show",
     "title": "Hyundai and Honda show US hybrids at Los Angeles Auto Show"
-  },
-  "972a139d9da2917bd5731888264a06374a156a09b8dcae913608e180679dc7aa": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/liberty-steel-dalzell-s-financial-strain-puts-royal-navy-steel-order-in-doubt",
-    "title": "Liberty Steel Dalzell's financial strain puts Royal Navy steel order in doubt"
   },
   "97708706c1de5d302a905d49b1b63dc2d37ebfbe0581d2f201a2b39a55784d99": {
     "first_seen": "2026-11-22T03:15:13.888154+00:00",
@@ -1199,11 +1214,6 @@
     "link": "https://piqmarkets.com/story/guralp-systems-to-pay-sfo-2-5m-after-breaching-bribery-settlement",
     "title": "Güralp Systems to pay SFO £2.5m after breaching bribery settlement"
   },
-  "9e70da5482cdfdb9406e6ad1d097f6d4a83a1f49efa9f7f58d68afadbab9edbd": {
-    "first_seen": "2026-11-15T09:21:29.310739+00:00",
-    "link": "https://piqmarkets.com/story/hd-hyundai-launches-600-ton-autonomous-vessel-built-with-anduril",
-    "title": "HD Hyundai launches 600-ton autonomous vessel built with Anduril"
-  },
   "9f0f80c7235f95226bd93687e7a4600af4d92bf9b17f250c65b6d090e757a62a": {
     "first_seen": "2026-11-20T20:13:18.389390+00:00",
     "link": "https://piqmarkets.com/story/rockstar-says-gta-vi-took-3-79-billion-in-first-day-retail-sales",
@@ -1248,11 +1258,6 @@
     "first_seen": "2026-11-24T18:52:56.074480+00:00",
     "link": "https://piqmarkets.com/story/south-korea-20-ownership-cap-puts-naver-s-dunamu-control-in-doubt",
     "title": "South Korea 20% ownership cap puts Naver's Dunamu control in doubt"
-  },
-  "a40083474ca49bfceb9e6e3b50ff098938885ec020c252bf21667d6145e8b486": {
-    "first_seen": "2026-11-15T09:21:29.310739+00:00",
-    "link": "https://piqmarkets.com/story/hong-kong-airport-deploys-robots-to-repaint-runway-markings",
-    "title": "Hong Kong airport deploys robots to repaint runway markings"
   },
   "a4cee00155e4da54962527f64c38e5f8e065b7b51605a9c1b414f00ae1000386": {
     "first_seen": "2026-11-17T13:21:20.500310+00:00",
@@ -1314,11 +1319,6 @@
     "link": "https://piqmarkets.com/story/skydance-names-film-studio-chiefs-for-paramount-and-warner-bros",
     "title": "Skydance names film studio chiefs for Paramount and Warner Bros"
   },
-  "a9085a625b2c9440e1a1f1fd625f30f1dda8d868d35c672d9f838b61ef9caa28": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/nvidia-says-ceo-jensen-huang-resigned-after-affair-reports",
-    "title": "Nvidia says CEO Jensen Huang resigned after affair reports"
-  },
   "aaa95e8d2e9d25b08bd2bd160f7a70fc393eac481d4d1a717369c585a859b8d8": {
     "first_seen": "2026-11-18T21:54:33.702663+00:00",
     "link": "https://piqmarkets.com/story/ellison-says-hbo-will-air-musk-documentary-despite-1b-stake",
@@ -1373,11 +1373,6 @@
     "first_seen": "2026-11-20T11:43:44.602805+00:00",
     "link": "https://piqmarkets.com/story/british-library-to-outsource-70-security-guards-and-convert-three-reading-rooms",
     "title": "British Library to outsource 70 security guards and convert three reading rooms"
-  },
-  "afeff8af276a1b305ae06d5be5baf7cb84ecd6c9b16daa8e80d69735e3890134": {
-    "first_seen": "2026-11-15T01:53:01.404263+00:00",
-    "link": "https://piqmarkets.com/story/subaru-retools-boxer-engine-for-fuel-economy-targets-50-thermal-efficiency",
-    "title": "Subaru retools boxer engine for fuel economy, targets 50% thermal efficiency"
   },
   "b07628328fac1a014b189e3eb1aa0b7b02f051c9a2acee8b2ea185e142b0b00f": {
     "first_seen": "2026-11-22T20:19:45.799146+00:00",
@@ -1539,6 +1534,11 @@
     "link": "https://piqmarkets.com/story/uk-music-industry-added-record-8-4bn-to-economy-in-2025",
     "title": "UK music industry added record £8.4bn to economy in 2025"
   },
+  "c38315c3e331ad3e4799874d0eee76e0f35f9af666770531ba2133dc4c63cd2a": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/seoul-metro-unions-call-off-strike-after-last-minute-wage-deal",
+    "title": "Seoul Metro unions call off strike after last-minute wage deal"
+  },
   "c4aeb2b481c9eb139ec3420463e1fff0a3d3249fcd8f61cf3837442c8b3be93f": {
     "first_seen": "2026-11-16T20:26:36.194121+00:00",
     "link": "https://piqmarkets.com/story/tesla-plans-3-billion-expansion-of-its-german-plant-near-berlin",
@@ -1553,6 +1553,11 @@
     "first_seen": "2026-11-18T13:55:33.520969+00:00",
     "link": "https://piqmarkets.com/story/tjx-third-quarter-revenue-beats-lseg-analyst-estimate-at-15-95b",
     "title": "TJX third-quarter revenue beats LSEG analyst estimate at $15.95B"
+  },
+  "c58abe581655485ef580b309011c039ce7ed4e1218204b148cef9e7b368b7a7a": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/byd-to-sign-minas-gerais-mou-in-january-for-brazil-ev-plant",
+    "title": "BYD to sign Minas Gerais MOU in January for Brazil EV plant"
   },
   "c6861fb9ab2234c13a3da1ace1342c38ff2c3c624e2d6795c4d1aa9fdf2643a0": {
     "first_seen": "2026-11-21T02:11:51.339179+00:00",
@@ -1634,11 +1639,6 @@
     "link": "https://piqmarkets.com/story/dutch-court-bars-eu-sales-of-byd-ti7-in-jlr-design-case",
     "title": "Dutch court bars EU sales of BYD Ti7 in JLR design case"
   },
-  "d0ccc6354474016dd659bead85cfc6f44e5f5e148a50f3f8f70c21b473eb61d6": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/poundland-owners-release-21m-as-rescue-deadline-nears",
-    "title": "Poundland owners release £21m as rescue deadline nears"
-  },
   "d0e5c520d6846f9452230d386b2ecbfa3849779e61c9d2d977c66fb9f9f3f353": {
     "first_seen": "2026-11-20T11:43:44.602805+00:00",
     "link": "https://piqmarkets.com/story/walmart-says-shoppers-stocked-up-after-us-tech-outages",
@@ -1648,6 +1648,11 @@
     "first_seen": "2026-11-17T03:50:29.218561+00:00",
     "link": "https://piqmarkets.com/story/weil-gotshal-plans-wind-down-after-partner-exits-lawyers-say",
     "title": "Weil Gotshal plans wind-down after partner exits, lawyers say"
+  },
+  "d17a1379d6c89c6a38d015d15f433cd43173da7abb99785320d42f9e9f87e767": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/jbs-proposes-wesley-batista-as-chairman-effective-january-1",
+    "title": "JBS proposes Wesley Batista as chairman effective January 1"
   },
   "d260242301514a7ebd616e25de3e0228834001894a9d353081e7bbda43317b77": {
     "first_seen": "2026-11-19T03:23:34.108925+00:00",
@@ -1774,11 +1779,6 @@
     "link": "https://piqmarkets.com/story/japan-tobacco-shares-fall-10-after-russia-loss-warning-dividend-cut",
     "title": "Japan Tobacco shares fall 10% after Russia loss warning, dividend cut"
   },
-  "df296f25d19f04b4718a1e59e25a0a7adb173ae75d7627002a07bb1f2c20652e": {
-    "first_seen": "2026-11-15T01:53:01.404263+00:00",
-    "link": "https://piqmarkets.com/story/family-dollar-to-pay-63-million-to-settle-ftc-overcharging-claims",
-    "title": "Family Dollar to pay $63 million to settle FTC overcharging claims"
-  },
   "e06ada75e734bd4b868aba6358a7c2acbf318958baf3ec03d50a50cd751e1b53": {
     "first_seen": "2026-11-17T13:21:20.500310+00:00",
     "link": "https://piqmarkets.com/story/santander-uk-counts-holiday-and-sick-leave-toward-office-attendance",
@@ -1829,11 +1829,6 @@
     "link": "https://piqmarkets.com/story/us-says-openai-engineer-likely-took-trade-secrets-via-hidden-bug",
     "title": "US says OpenAI engineer likely took trade secrets via hidden bug"
   },
-  "e602eab7f3d9b094230b0d84dbeb2303a6e16ec43b558f5d3e500eafcded1553": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/banks-commit-270m-to-stablecoin-venture-as-wall-street-pushes-onchain-dollar",
-    "title": "Banks commit $270M to stablecoin venture as Wall Street pushes onchain dollar"
-  },
   "e9852b3d57ba61843a55ea09fc328bd6e2e46bd9d62119e5ce9a03d54f7adc8b": {
     "first_seen": "2026-11-16T20:26:36.194121+00:00",
     "link": "https://piqmarkets.com/story/propublica-finds-nine-companies-steering-tariff-refunds-to-executive-bonuses",
@@ -1843,11 +1838,6 @@
     "first_seen": "2026-11-20T03:11:21.202764+00:00",
     "link": "https://piqmarkets.com/story/citi-terms-make-customers-liable-for-third-party-ai-agent-activity",
     "title": "Citi terms make customers liable for third-party AI agent activity"
-  },
-  "ea39c49aa4402d0f4cb1cef55cd9baeb0e03ac5e7f63b406ca2337e2ebb87cc2": {
-    "first_seen": "2026-11-15T17:06:59.606529+00:00",
-    "link": "https://piqmarkets.com/story/chip-targets-retail-investors-in-private-market-first",
-    "title": "Chip targets retail investors in private market first"
   },
   "ebe51a6d1a70609b93d94704a6d22fbb8ec80feb9eb9eedde858ebc1cb0b8961": {
     "first_seen": "2026-11-19T13:00:09.692016+00:00",
@@ -1909,6 +1899,11 @@
     "link": "https://piqmarkets.com/story/sk-hynix-builds-450b-yongin-chip-cluster-first-fab-89-complete",
     "title": "SK Hynix builds $450B Yongin chip cluster, first fab 89% complete"
   },
+  "f42bc869dd6c97209c187096a6bb243184064615141b01b091fc46ce6fecfc23": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/foxconn-india-unit-faces-insolvency-petition-over-15-3m-in-unpaid-dues",
+    "title": "Foxconn India unit faces insolvency petition over $15.3M in unpaid dues"
+  },
   "f43afcf62997bd468c9f7ff415e2166e9e9ded4813e74796dae0b92b9977e18f": {
     "first_seen": "2026-11-17T22:20:14.534406+00:00",
     "link": "https://piqmarkets.com/story/fitch-affirms-finance-of-america-at-ccc-with-positive-outlook",
@@ -1968,6 +1963,11 @@
     "first_seen": "2026-11-16T20:26:36.194121+00:00",
     "link": "https://piqmarkets.com/story/downdetector-reports-user-outage-reports-at-jpmorgan-bofa-us-bank-wells-fargo",
     "title": "Downdetector reports user outage reports at JPMorgan, BofA, US Bank, Wells Fargo"
+  },
+  "fdfcfb590b5dfca9fd533f5a648a811d2a569d876913578824306ffcd59cd6f6": {
+    "first_seen": "2026-11-25T03:01:40.715978+00:00",
+    "link": "https://piqmarkets.com/story/nvidia-s-jensen-huang-tells-staff-a-succession-plan-creates-hierarchy",
+    "title": "Nvidia's Jensen Huang tells staff a succession plan creates hierarchy"
   },
   "fe33be0e66572cc3a82e55da8261ce52677a8a4b5ae5a993d28d34830443e737": {
     "first_seen": "2026-11-18T04:17:31.971103+00:00",
